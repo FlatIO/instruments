@@ -1,0 +1,57 @@
+{
+  "name": "@flat/instruments",
+  "version": "1.0.0",
+  "description": "The public catalog of musical instruments used by the Flat platform and API.",
+  "license": "UNLICENSED",
+  "author": "Tutteo Ltd. <hello@flat.io>",
+  "homepage": "https://flat.io/developers/docs/api/instruments",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlatIO/instruments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FlatIO/instruments/issues"
+  },
+  "keywords": [
+    "flat",
+    "flat.io",
+    "music",
+    "instruments",
+    "notation",
+    "midi",
+    "music-notation"
+  ],
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/src/index.d.ts",
+      "default": "./dist/src/index.js"
+    },
+    "./data/instruments.json": "./data/instruments.json",
+    "./schema/instruments.schema.json": "./schema/instruments.schema.json"
+  },
+  "files": [
+    "dist",
+    "data",
+    "schema",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build-schema": "ts-json-schema-generator --path src/types.ts --type InstrumentsFile --out schema/instruments.schema.json --no-top-ref",
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test test/*.test.mjs",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "ajv": "^8.17.1",
+    "ts-json-schema-generator": "^2.4.0",
+    "typescript": "^5.9.3"
+  }
+}

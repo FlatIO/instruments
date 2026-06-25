@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "definitions": {
+    "Instrument": {
+      "additionalProperties": false,
+      "description": "A single instrument in Flat's public catalog.",
+      "properties": {
+        "group": {
+          "description": "Group / family ID this instrument belongs to, e.g. `\"keyboards\"`.",
+          "type": "string"
+        },
+        "id": {
+          "description": "Canonical instrument ID in `group.instrument` form, e.g. `\"keyboards.piano\"`.",
+          "type": "string"
+        },
+        "name": {
+          "description": "English display name, e.g. `\"Piano\"`.",
+          "type": "string"
+        },
+        "premium": {
+          "description": "`true` when the instrument requires a paid Flat plan.",
+          "type": "boolean"
+        },
+        "shortname": {
+          "description": "Short English label used on staves, e.g. `\"Pno.\"`.",
+          "type": "string"
+        },
+        "type": {
+          "$ref": "#/definitions/InstrumentType",
+          "description": "`\"pitched\"` for melodic instruments, `\"unpitched\"` for percussion / drum-style kits."
+        }
+      },
+      "required": [
+        "id",
+        "group",
+        "name",
+        "shortname",
+        "type",
+        "premium"
+      ],
+      "type": "object"
+    },
+    "InstrumentGroup": {
+      "additionalProperties": false,
+      "description": "A group / family of instruments (e.g. Keyboards, Brass), in catalog display order.",
+      "properties": {
+        "id": {
+          "description": "Group ID, e.g. `\"keyboards\"`.",
+          "type": "string"
+        },
+        "instruments": {
+          "description": "Instruments in this group, in catalog display order.",
+          "items": {
+            "$ref": "#/definitions/Instrument"
+          },
+          "type": "array"
+        },
+        "name": {
+          "description": "English display name, e.g. `\"Keyboards\"`.",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "instruments"
+      ],
+      "type": "object"
+    },
+    "InstrumentType": {
+      "description": "Whether an instrument is pitched (melodic) or unpitched (percussion / drum-style kit).",
+      "enum": [
+        "pitched",
+        "unpitched"
+      ],
+      "type": "string"
+    }
+  },
+  "description": "Top-level shape of `data/instruments.json` — the published catalog.",
+  "properties": {
+    "groups": {
+      "description": "All instrument groups, in catalog display order.",
+      "items": {
+        "$ref": "#/definitions/InstrumentGroup"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "groups"
+  ],
+  "type": "object"
+}
