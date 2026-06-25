@@ -51,13 +51,6 @@ If you are not using JavaScript, the same data is available as plain JSON, bundl
 [`data/instruments.json`](./data/instruments.json)
 (validated against [`schema/instruments.schema.json`](./schema/instruments.schema.json)).
 
-## How this data is maintained
-
-The catalog is the source of truth in Flat's internal `@flat/instruments-meta` package. A maintainer
-syncs the public subset into `data/instruments.json` (English names only, plus the `premium` flag), and
-`pnpm validate` checks it against the JSON Schema before each release. The data therefore reflects the
-instrument IDs the live Flat API accepts.
-
 ## Development
 
 ```bash
