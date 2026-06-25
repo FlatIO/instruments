@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The public catalog of musical instruments used by the Flat platform and API.",
   "license": "UNLICENSED",
+  "packageManager": "pnpm@11.0.9",
   "author": "Tutteo Ltd. <hello@flat.io>",
   "homepage": "https://flat.io/developers/docs/api/instruments",
   "repository": {
