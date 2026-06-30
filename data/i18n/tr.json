@@ -1,0 +1,1710 @@
+{
+  "groups": [
+    {
+      "id": "brass",
+      "name": "Bakır Üflemeliler",
+      "instruments": [
+        {
+          "id": "brass.hq-trumpet",
+          "group": "brass",
+          "name": "Trompet",
+          "shortname": "Tpt.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.trumpet",
+          "group": "brass",
+          "name": "Trompet",
+          "shortname": "Tpt.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "brass.hq-trombone",
+          "group": "brass",
+          "name": "Trombon",
+          "shortname": "Trb.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.trombone",
+          "group": "brass",
+          "name": "Trombon",
+          "shortname": "Trb.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "brass.hq-french-horn",
+          "group": "brass",
+          "name": "Fa Korno",
+          "shortname": "F Hn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.horn",
+          "group": "brass",
+          "name": "Fa Korno",
+          "shortname": "F Hn.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "brass.hq-horn-in-c",
+          "group": "brass",
+          "name": "Do Korno",
+          "shortname": "Do Korno",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.horn-in-c",
+          "group": "brass",
+          "name": "Do Korno",
+          "shortname": "Do Korno",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.hq-horn-in-d",
+          "group": "brass",
+          "name": "Re Korno",
+          "shortname": "Re Korno",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.horn-in-d",
+          "group": "brass",
+          "name": "Re Korno",
+          "shortname": "Re Korno",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.hq-baritone-horn",
+          "group": "brass",
+          "name": "Bariton",
+          "shortname": "Bar. Hn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.baritone-horn",
+          "group": "brass",
+          "name": "Bariton",
+          "shortname": "Bar. Hn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.hq-baritone-horn-treble",
+          "group": "brass",
+          "name": "Bariton TC",
+          "shortname": "Bar. TC",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.baritone-horn-treble",
+          "group": "brass",
+          "name": "Bariton TC",
+          "shortname": "Bar. TC",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.euphonium",
+          "group": "brass",
+          "name": "Eufonium",
+          "shortname": "Euph.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.hq-tuba",
+          "group": "brass",
+          "name": "Tuba",
+          "shortname": "Tba.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.tuba",
+          "group": "brass",
+          "name": "Tuba",
+          "shortname": "Tba.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "brass.brass",
+          "group": "brass",
+          "name": "Bakır Üflemeliler Bölümü",
+          "shortname": "Bakır Nefesliler Grubu",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "electronic-instruments",
+      "name": "Elektronik Enstrümanlar",
+      "instruments": [
+        {
+          "id": "electronic-instruments.synth-bass-1",
+          "group": "electronic-instruments",
+          "name": "Portamento Synth Bas",
+          "shortname": "Portamento Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-2",
+          "group": "electronic-instruments",
+          "name": "Reese Synth Bas",
+          "shortname": "Rezonanslı Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-3",
+          "group": "electronic-instruments",
+          "name": "Mızraplı Synth Bas",
+          "shortname": "Pluck Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-1",
+          "group": "electronic-instruments",
+          "name": "Underwide Synth Bas",
+          "shortname": "Uw. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-2",
+          "group": "electronic-instruments",
+          "name": "Dolgun Synth Bas",
+          "shortname": "Sd. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-3",
+          "group": "electronic-instruments",
+          "name": "Hafif Synth Bas",
+          "shortname": "Lt. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-4",
+          "group": "electronic-instruments",
+          "name": "Airbass Synth Bas",
+          "shortname": "Ab. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-5",
+          "group": "electronic-instruments",
+          "name": "Evolution Synth Bas",
+          "shortname": "Ev. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-6",
+          "group": "electronic-instruments",
+          "name": "Weekend Synth Bas",
+          "shortname": "Wk. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-7",
+          "group": "electronic-instruments",
+          "name": "Ataklı Synth Bas",
+          "shortname": "Pl. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-8",
+          "group": "electronic-instruments",
+          "name": "Fazlı Synth Bas",
+          "shortname": "Fz. Bas.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-9",
+          "group": "electronic-instruments",
+          "name": "Out Synth Bas",
+          "shortname": "Out Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-1",
+          "group": "electronic-instruments",
+          "name": "Epik Çan Lead Sentezleyici",
+          "shortname": "Epc Bl LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-2",
+          "group": "electronic-instruments",
+          "name": "Testere Chorus Lead Sentezleyici",
+          "shortname": "Sw Ch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-3",
+          "group": "electronic-instruments",
+          "name": "Işın Kılıcı Lead Sentezleyici",
+          "shortname": "Işıltılı Lead Sentezleyici",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-4",
+          "group": "electronic-instruments",
+          "name": "Parlak Yıldız Lead Sentezleyici",
+          "shortname": "Brt S LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-5",
+          "group": "electronic-instruments",
+          "name": "Derin Uzay Lead Sentezleyici",
+          "shortname": "Dp Sp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-6",
+          "group": "electronic-instruments",
+          "name": "Bilim Kurgu Bilgisayar Lead Sentezleyici",
+          "shortname": "SF Cp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-7",
+          "group": "electronic-instruments",
+          "name": "Şarkı Söyleyen Robotlar Lead Sentezleyici",
+          "shortname": "Sg Rb LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-1",
+          "group": "electronic-instruments",
+          "name": "Kutup Yıldızı Lead Synth",
+          "shortname": "NS LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-2",
+          "group": "electronic-instruments",
+          "name": "Gürültülü Lead Synth",
+          "shortname": "Gürültülü Lead Sentezleyici",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-3",
+          "group": "electronic-instruments",
+          "name": "Square One Lead Sentezleyici",
+          "shortname": "Kare Dalga 1 Lead Sentezleyici",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-4",
+          "group": "electronic-instruments",
+          "name": "Drill Lead Synth",
+          "shortname": "Drill Lead Sentezleyici",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-5",
+          "group": "electronic-instruments",
+          "name": "Funky Lead Synth",
+          "shortname": "Funk Lead Sentezleyici",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-6",
+          "group": "electronic-instruments",
+          "name": "Astral İletişim Lead Synth",
+          "shortname": "Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-1",
+          "group": "electronic-instruments",
+          "name": "Rüya Gibi Koro Lead Synth",
+          "shortname": "Dr Chr LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-2",
+          "group": "electronic-instruments",
+          "name": "Uzay Orkestrası Lead Synth",
+          "shortname": "Sp Orch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-3",
+          "group": "electronic-instruments",
+          "name": "Melodik Asteroit Lead Synth",
+          "shortname": "Mld Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-4",
+          "group": "electronic-instruments",
+          "name": "Mars Gezgini Lead Synth",
+          "shortname": "Mars LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.choir-synth",
+          "group": "electronic-instruments",
+          "name": "Koro Sentezleyici",
+          "shortname": "Synth.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "free-reed",
+      "name": "Serbest Kamışlı",
+      "instruments": [
+        {
+          "id": "free-reed.accordion",
+          "group": "free-reed",
+          "name": "Akordeon",
+          "shortname": "Akr.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "free-reed.harmonica",
+          "group": "free-reed",
+          "name": "Ağız Armonikası",
+          "shortname": "Harm.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "keyboards",
+      "name": "Klavye Çalgıları",
+      "instruments": [
+        {
+          "id": "keyboards.hq-grand-piano",
+          "group": "keyboards",
+          "name": "Kuyruklu Piyano",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hq-piano-tight",
+          "group": "keyboards",
+          "name": "Sıkı Piyano",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hq-piano-concert",
+          "group": "keyboards",
+          "name": "Konser Piyanosu",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.grand-piano",
+          "group": "keyboards",
+          "name": "Kuyruklu Piyano",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "keyboards.piano",
+          "group": "keyboards",
+          "name": "Piyano",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "keyboards.harpsichord",
+          "group": "keyboards",
+          "name": "Klavsen",
+          "shortname": "Klv.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.celesta",
+          "group": "keyboards",
+          "name": "Çelesta",
+          "shortname": "Çel.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.organ",
+          "group": "keyboards",
+          "name": "Org",
+          "shortname": "Org.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hammond-organ",
+          "group": "keyboards",
+          "name": "Hammond Org",
+          "shortname": "Hm. Org.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.reed-organ",
+          "group": "keyboards",
+          "name": "Kamışlı Org",
+          "shortname": "Kmş. Org.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.rotary-organ",
+          "group": "keyboards",
+          "name": "Döner Org",
+          "shortname": "Rot. Org.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.percussive-organ",
+          "group": "keyboards",
+          "name": "Perküsyon Org",
+          "shortname": "Perk. Org.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "pitched-percussion",
+      "name": "Akortlu Vurmalı Çalgılar",
+      "instruments": [
+        {
+          "id": "pitched-percussion.timpani",
+          "group": "pitched-percussion",
+          "name": "Timpani",
+          "shortname": "Timp.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.xylophone",
+          "group": "pitched-percussion",
+          "name": "Ksilofon",
+          "shortname": "Ksl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.vibraphone",
+          "group": "pitched-percussion",
+          "name": "Vibrafon",
+          "shortname": "Vib.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.glockenspiel",
+          "group": "pitched-percussion",
+          "name": "Glockenspiel",
+          "shortname": "Glk.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.marimba",
+          "group": "pitched-percussion",
+          "name": "Marimba",
+          "shortname": "Mrm.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.tubular-bells",
+          "group": "pitched-percussion",
+          "name": "Tübüler Çanlar (Orkestra Çanları)",
+          "shortname": "Tü. Ç.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.music-box",
+          "group": "pitched-percussion",
+          "name": "Müzik Kutusu",
+          "shortname": "M. Kts.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.soprano-steel-drums",
+          "group": "pitched-percussion",
+          "name": "Soprano Çelik Davullar",
+          "shortname": "S. Ç. D.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.bass-steel-drums",
+          "group": "pitched-percussion",
+          "name": "Bas Çelik Davullar",
+          "shortname": "B. Çel. D.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "unpitched-percussion",
+      "name": "Vurmalı Çalgılar",
+      "instruments": [
+        {
+          "id": "unpitched-percussion.hq-drumset-rock",
+          "group": "unpitched-percussion",
+          "name": "Davul Seti",
+          "shortname": "Davullar",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumset-1",
+          "group": "unpitched-percussion",
+          "name": "Davul Seti",
+          "shortname": "Davullar",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hq-orchestral-drumset",
+          "group": "unpitched-percussion",
+          "name": "Orkestra Davul Seti",
+          "shortname": "Davullar",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.hip-hop-drum-set",
+          "group": "unpitched-percussion",
+          "name": "Hip-Hop Seti",
+          "shortname": "HH Seti",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.hq-marching-snare-drums",
+          "group": "unpitched-percussion",
+          "name": "Yürüyüş Trampetleri",
+          "shortname": "Yür Tr",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.marching-snare-drums",
+          "group": "unpitched-percussion",
+          "name": "Yürüyüş Trampetleri",
+          "shortname": "Yür Tr",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hq-marching-tenor-drums",
+          "group": "unpitched-percussion",
+          "name": "Marş Tenor Davulları",
+          "shortname": "Mrş Tn",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.marching-tenor-drums",
+          "group": "unpitched-percussion",
+          "name": "Marş Tenor Davulları",
+          "shortname": "Mrş Tn",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hq-marching-bass-drums",
+          "group": "unpitched-percussion",
+          "name": "Yürüyüş Bas Davulları",
+          "shortname": "Yür Bs",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.marching-bass-drums",
+          "group": "unpitched-percussion",
+          "name": "Yürüyüş Bas Davulları",
+          "shortname": "Yür Bs",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hq-marching-cymbals",
+          "group": "unpitched-percussion",
+          "name": "Yürüyüş Zilleri",
+          "shortname": "Yür Zl",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.marching-cymbals",
+          "group": "unpitched-percussion",
+          "name": "Yürüyüş Zilleri",
+          "shortname": "Yür Zl",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.concert-bass-drum",
+          "group": "unpitched-percussion",
+          "name": "Konser Bas Davulu",
+          "shortname": "CBD",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.gong",
+          "group": "unpitched-percussion",
+          "name": "Doğu Gongları",
+          "shortname": "Gng.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.nagado-drums",
+          "group": "unpitched-percussion",
+          "name": "Japon Nagado Taiko Davulları",
+          "shortname": "Nağara",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.woodblocks",
+          "group": "unpitched-percussion",
+          "name": "Ahşap Bloklar",
+          "shortname": "WB",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.bongos",
+          "group": "unpitched-percussion",
+          "name": "Bongolar",
+          "shortname": "Bongo",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.congas",
+          "group": "unpitched-percussion",
+          "name": "Kongalar",
+          "shortname": "Kon.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.claves",
+          "group": "unpitched-percussion",
+          "name": "Claves",
+          "shortname": "Klaves",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.agogo-bells",
+          "group": "unpitched-percussion",
+          "name": "Agogo Çanları",
+          "shortname": "Ago.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.whistles",
+          "group": "unpitched-percussion",
+          "name": "Düdükler",
+          "shortname": "Düd.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.wind-chimes",
+          "group": "unpitched-percussion",
+          "name": "Rüzgar Çanları",
+          "shortname": "Rüzgar Çanları",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.finger-snap",
+          "group": "unpitched-percussion",
+          "name": "Parmak Şaklatma",
+          "shortname": "Fgr.",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hand-clap",
+          "group": "unpitched-percussion",
+          "name": "Alkış",
+          "shortname": "Clp",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.suspended-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Askı Zili",
+          "shortname": "Asılı zil",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.triangle",
+          "group": "unpitched-percussion",
+          "name": "Üçgen",
+          "shortname": "Üçg.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.jingle-bells",
+          "group": "unpitched-percussion",
+          "name": "Çıngıraklar",
+          "shortname": "Çıng.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.maracas",
+          "group": "unpitched-percussion",
+          "name": "Marakas",
+          "shortname": "Mrks",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-acoustic-bass-drum",
+          "group": "unpitched-percussion",
+          "name": "Akustik Bas Davul",
+          "shortname": "BD",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-side-stick",
+          "group": "unpitched-percussion",
+          "name": "Kenar Vuruşu",
+          "shortname": "Sd Stk",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-acoustic-snare-drum",
+          "group": "unpitched-percussion",
+          "name": "Akustik Trampet",
+          "shortname": "Snr",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-floor-tom",
+          "group": "unpitched-percussion",
+          "name": "Floor Tom",
+          "shortname": "Fl Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-low-tom",
+          "group": "unpitched-percussion",
+          "name": "Kalın Tom",
+          "shortname": "L Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-low-mid-tom",
+          "group": "unpitched-percussion",
+          "name": "Alçak-Orta Tom",
+          "shortname": "LM Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-mid-tom",
+          "group": "unpitched-percussion",
+          "name": "Orta Tom",
+          "shortname": "M Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-high-mid-tom",
+          "group": "unpitched-percussion",
+          "name": "Yüksek-Orta Tom",
+          "shortname": "HM Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-high-tom",
+          "group": "unpitched-percussion",
+          "name": "Tiz Tom",
+          "shortname": "H Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-closed-hi-hat",
+          "group": "unpitched-percussion",
+          "name": "Kapalı Hi-hat",
+          "shortname": "Cl HH",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-open-hi-hat",
+          "group": "unpitched-percussion",
+          "name": "Açık Hi-hat",
+          "shortname": "Op HH",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-pedal-hi-hat",
+          "group": "unpitched-percussion",
+          "name": "Pedalla Hi-hat",
+          "shortname": "Pd HH",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-crash-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Crash Zil",
+          "shortname": "Crash",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-ride-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Ride Zil",
+          "shortname": "Rd Cy",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-china-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Çin Zili",
+          "shortname": "Ch Cy",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-ride-bell",
+          "group": "unpitched-percussion",
+          "name": "Ride Zili Göbeği",
+          "shortname": "Rd Bl",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-tambourine",
+          "group": "unpitched-percussion",
+          "name": "Tef",
+          "shortname": "Tbr",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-splash-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Splash Zili",
+          "shortname": "Splash Zil",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-cowbell",
+          "group": "unpitched-percussion",
+          "name": "İnek Çanı",
+          "shortname": "İnek Çanı",
+          "type": "unpitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "plucked-strings",
+      "name": "Mızraplı Telli Çalgılar",
+      "instruments": [
+        {
+          "id": "plucked-strings.hq-acoustic-guitar",
+          "group": "plucked-strings",
+          "name": "Akustik Gitar",
+          "shortname": "Git.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.guitar-nylon",
+          "group": "plucked-strings",
+          "name": "Klasik Gitar",
+          "shortname": "Git.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.guitar-steel",
+          "group": "plucked-strings",
+          "name": "Akustik Gitar",
+          "shortname": "Git.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.hq-ukulele",
+          "group": "plucked-strings",
+          "name": "Ukulele",
+          "shortname": "Uk.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.ukulele",
+          "group": "plucked-strings",
+          "name": "Ukulele",
+          "shortname": "Uk.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.hq-electric-guitar",
+          "group": "plucked-strings",
+          "name": "Elektro Gitar",
+          "shortname": "El. Git.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.electric-guitar-clean",
+          "group": "plucked-strings",
+          "name": "Elektro Gitar (temiz)",
+          "shortname": "El. Git.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.electric-guitar-jazz",
+          "group": "plucked-strings",
+          "name": "Elektro Gitar (caz)",
+          "shortname": "El. Git.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.electric-guitar-muted",
+          "group": "plucked-strings",
+          "name": "Elektro Gitar (susturulmuş)",
+          "shortname": "El. Git.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.premium-guitar-distortion",
+          "group": "plucked-strings",
+          "name": "Yüksek Voltajlı Distortion Gitar",
+          "shortname": "Dist. G.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.premium-guitar-crunch",
+          "group": "plucked-strings",
+          "name": "Elektro Gitar Crunch",
+          "shortname": "G. Crch.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.premium-guitar-lead",
+          "group": "plucked-strings",
+          "name": "Solo Elektro Gitar",
+          "shortname": "G. Lead",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.distortion-guitar",
+          "group": "plucked-strings",
+          "name": "Distorsiyonlu Gitar",
+          "shortname": "Dist. Git.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.hq-modern-electric-bass",
+          "group": "plucked-strings",
+          "name": "Modern Elektro Bas Gitar",
+          "shortname": "Mo. B.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.hq-vintage-electric-bass",
+          "group": "plucked-strings",
+          "name": "Vintage Elektro Bas Gitar",
+          "shortname": "Vi. B.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.electric-bass",
+          "group": "plucked-strings",
+          "name": "Elektro Bas",
+          "shortname": "El. B.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.electric-bass-pick",
+          "group": "plucked-strings",
+          "name": "Elektro Bas (pena ile)",
+          "shortname": "El. Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.slap-bass",
+          "group": "plucked-strings",
+          "name": "Slap Bas Gitar",
+          "shortname": "Sl. Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.koto",
+          "group": "plucked-strings",
+          "name": "Japon Koto",
+          "shortname": "Koto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.shamisen",
+          "group": "plucked-strings",
+          "name": "Shamisen (Japon udu)",
+          "shortname": "Sha.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.oud",
+          "group": "plucked-strings",
+          "name": "Ud (Arap udu)",
+          "shortname": "Ud",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.banjo",
+          "group": "plucked-strings",
+          "name": "Banjo",
+          "shortname": "Bj.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.mandolin",
+          "group": "plucked-strings",
+          "name": "Mandolin",
+          "shortname": "Mdn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.harp",
+          "group": "plucked-strings",
+          "name": "Arp",
+          "shortname": "Arp",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.sitar",
+          "group": "plucked-strings",
+          "name": "Sitar",
+          "shortname": "Si.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "strings",
+      "name": "Yaylılar",
+      "instruments": [
+        {
+          "id": "strings.hq-violin",
+          "group": "strings",
+          "name": "Keman",
+          "shortname": "Vln.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.violin",
+          "group": "strings",
+          "name": "Keman",
+          "shortname": "Vln.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "strings.violin-lead",
+          "group": "strings",
+          "name": "Solo Keman",
+          "shortname": "Sl. Km.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.hq-viola",
+          "group": "strings",
+          "name": "Viyola",
+          "shortname": "Vla.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.viola",
+          "group": "strings",
+          "name": "Viyola",
+          "shortname": "Vla.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "strings.hq-cello",
+          "group": "strings",
+          "name": "Çello",
+          "shortname": "Vc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.violoncello",
+          "group": "strings",
+          "name": "Çello",
+          "shortname": "Vc.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "strings.hq-contrabass",
+          "group": "strings",
+          "name": "Kontrbas",
+          "shortname": "Cb.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.contrabass",
+          "group": "strings",
+          "name": "Kontrbas",
+          "shortname": "Cb.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "strings.string-ensemble",
+          "group": "strings",
+          "name": "Yaylı Çalgılar Topluluğu",
+          "shortname": "Y. Ç. T.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.erhu",
+          "group": "strings",
+          "name": "Çin Erhu",
+          "shortname": "Er.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "vocals",
+      "name": "Vokaller",
+      "instruments": [
+        {
+          "id": "vocals.hq-choir-soprano-women",
+          "group": "vocals",
+          "name": "Koro Soprano Kadınlar",
+          "shortname": "Sop.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-soprano-girls",
+          "group": "vocals",
+          "name": "Koro Soprano Kız Çocuklar",
+          "shortname": "Sop.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-soprano-boys",
+          "group": "vocals",
+          "name": "Koro Soprano Erkek Çocuklar",
+          "shortname": "Sop.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-countertenor-men",
+          "group": "vocals",
+          "name": "Koro Kontrtenor Erkekler",
+          "shortname": "Knt.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-alto-women",
+          "group": "vocals",
+          "name": "Koro Alto Kadınlar",
+          "shortname": "Alto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-alto-girls",
+          "group": "vocals",
+          "name": "Koro Alto Kız Çocuklar",
+          "shortname": "Alto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-tenor-hall",
+          "group": "vocals",
+          "name": "Koro Tenor Salon",
+          "shortname": "Ten.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-tenor-cathedral",
+          "group": "vocals",
+          "name": "Koro Tenor Katedral",
+          "shortname": "Ten.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-bass-hall",
+          "group": "vocals",
+          "name": "Koro Bas Salon",
+          "shortname": "Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-bass-cathedral",
+          "group": "vocals",
+          "name": "Koro Bas Katedral",
+          "shortname": "Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.choir-soprano",
+          "group": "vocals",
+          "name": "Koro Soprano",
+          "shortname": "Sop.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "vocals.choir-alto",
+          "group": "vocals",
+          "name": "Koro Alto",
+          "shortname": "Alto",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "vocals.choir-tenor",
+          "group": "vocals",
+          "name": "Koro Tenor",
+          "shortname": "Ten.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "vocals.choir-bass",
+          "group": "vocals",
+          "name": "Koro Bas",
+          "shortname": "Bas",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "vocals.choir-aahs",
+          "group": "vocals",
+          "name": "Koro Aah",
+          "shortname": "Kr. Aa.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.voice-oohs",
+          "group": "vocals",
+          "name": "Ses Ooh",
+          "shortname": "Vok. Oo.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.voice-lead",
+          "group": "vocals",
+          "name": "Solo Ses",
+          "shortname": "Vok. Sl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.kazoo",
+          "group": "vocals",
+          "name": "Kazoo",
+          "shortname": "Kz.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "woodwinds",
+      "name": "Tahta Üflemeliler",
+      "instruments": [
+        {
+          "id": "woodwinds.piccolo",
+          "group": "woodwinds",
+          "name": "Pikolo",
+          "shortname": "Pik.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-orchestral-flute",
+          "group": "woodwinds",
+          "name": "Orkestra Flütü",
+          "shortname": "Fl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-traditional-flute",
+          "group": "woodwinds",
+          "name": "Geleneksel Flüt",
+          "shortname": "Fl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.flute",
+          "group": "woodwinds",
+          "name": "Flüt",
+          "shortname": "Fl.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-flute",
+          "group": "woodwinds",
+          "name": "Alto Flüt",
+          "shortname": "A. Fl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.pan-flute",
+          "group": "woodwinds",
+          "name": "Pan Flüt",
+          "shortname": "Pn. Fl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.recorder",
+          "group": "woodwinds",
+          "name": "Blok Flüt",
+          "shortname": "Bl.Fl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.alto-recorder-in-f",
+          "group": "woodwinds",
+          "name": "Fa akortlu Alto Blokflüt",
+          "shortname": "Alto Blokfl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.tin-whistle",
+          "group": "woodwinds",
+          "name": "İrlanda Düdüğü",
+          "shortname": "İrl. Düd.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.oboe",
+          "group": "woodwinds",
+          "name": "Obua",
+          "shortname": "Ob.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.english-horn",
+          "group": "woodwinds",
+          "name": "İngiliz Kornosu",
+          "shortname": "İ. Kn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-concert-clarinet",
+          "group": "woodwinds",
+          "name": "Konser Klarneti (Si bemol)",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-clarinet-ensemble",
+          "group": "woodwinds",
+          "name": "Klarnet Düeti",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.clarinet",
+          "group": "woodwinds",
+          "name": "Klarnet",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-clarinet",
+          "group": "woodwinds",
+          "name": "Alto Klarnet",
+          "shortname": "Al. Kl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.bass-clarinet",
+          "group": "woodwinds",
+          "name": "Bas Klarnet",
+          "shortname": "B. Kl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.contrabass-clarinet",
+          "group": "woodwinds",
+          "name": "Kontrbas Klarnet",
+          "shortname": "Kb. Kl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.bassoon",
+          "group": "woodwinds",
+          "name": "Fagot",
+          "shortname": "Fg.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.contrabassoon",
+          "group": "woodwinds",
+          "name": "Kontrafagot",
+          "shortname": "Ktr. Fgt.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-soprano-saxophone",
+          "group": "woodwinds",
+          "name": "Soprano Saksafon",
+          "shortname": "S. Saks.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-alto-saxophone",
+          "group": "woodwinds",
+          "name": "Alto Saksafon",
+          "shortname": "A. Saks.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-tenor-saxophone",
+          "group": "woodwinds",
+          "name": "Tenor Saksafon",
+          "shortname": "T. Saks.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-baritone-saxophone",
+          "group": "woodwinds",
+          "name": "Bariton Saksafon",
+          "shortname": "Bar. Saks.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.soprano-saxophone",
+          "group": "woodwinds",
+          "name": "Soprano Saksafon",
+          "shortname": "S. Saks.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-saxophone",
+          "group": "woodwinds",
+          "name": "Alto Saksafon",
+          "shortname": "A. Saks.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.tenor-saxophone",
+          "group": "woodwinds",
+          "name": "Tenor Saksafon",
+          "shortname": "T. Saks.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.baritone-saxophone",
+          "group": "woodwinds",
+          "name": "Bariton Saksafon",
+          "shortname": "Bar. Saks.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.bagpipe",
+          "group": "woodwinds",
+          "name": "Gayda",
+          "shortname": "Gyd.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.ocarina",
+          "group": "woodwinds",
+          "name": "Okarina",
+          "shortname": "Ok.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.dizi-flute",
+          "group": "woodwinds",
+          "name": "Dizi (Çin flütü)",
+          "shortname": "Di.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.shakuhachi-flute",
+          "group": "woodwinds",
+          "name": "Shakuhachi (Japon flütü)",
+          "shortname": "Sh.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "special",
+      "name": "Özel",
+      "instruments": [
+        {
+          "id": "special.cat",
+          "group": "special",
+          "name": "Kedi Miyavlamaları",
+          "shortname": "Kedi",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "special.starwars",
+          "group": "special",
+          "name": "Star Wars Seti",
+          "shortname": "St. W.",
+          "type": "unpitched",
+          "premium": false
+        }
+      ]
+    }
+  ]
+}
