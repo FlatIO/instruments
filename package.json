@@ -30,6 +30,7 @@
       "default": "./dist/src/index.js"
     },
     "./data/instruments.json": "./data/instruments.json",
+    "./data/i18n/*.json": "./data/i18n/*.json",
     "./schema/instruments.schema.json": "./schema/instruments.schema.json"
   },
   "files": [

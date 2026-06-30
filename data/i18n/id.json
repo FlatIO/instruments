@@ -1,0 +1,1710 @@
+{
+  "groups": [
+    {
+      "id": "brass",
+      "name": "Instrumen tiup kuningan",
+      "instruments": [
+        {
+          "id": "brass.hq-trumpet",
+          "group": "brass",
+          "name": "Trompet",
+          "shortname": "Tpt.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.trumpet",
+          "group": "brass",
+          "name": "Trompet",
+          "shortname": "Tpt.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "brass.hq-trombone",
+          "group": "brass",
+          "name": "Trombon",
+          "shortname": "Trb.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.trombone",
+          "group": "brass",
+          "name": "Trombon",
+          "shortname": "Trb.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "brass.hq-french-horn",
+          "group": "brass",
+          "name": "Korno di F",
+          "shortname": "F Hn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.horn",
+          "group": "brass",
+          "name": "Korno di F",
+          "shortname": "F Hn.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "brass.hq-horn-in-c",
+          "group": "brass",
+          "name": "Korno di C",
+          "shortname": "Korno C",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.horn-in-c",
+          "group": "brass",
+          "name": "Korno di C",
+          "shortname": "Korno C",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.hq-horn-in-d",
+          "group": "brass",
+          "name": "Korno di D",
+          "shortname": "Korno D",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.horn-in-d",
+          "group": "brass",
+          "name": "Korno di D",
+          "shortname": "Korno D",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.hq-baritone-horn",
+          "group": "brass",
+          "name": "Horn Bariton",
+          "shortname": "Bar. Hn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.baritone-horn",
+          "group": "brass",
+          "name": "Horn Bariton",
+          "shortname": "Bar. Hn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.hq-baritone-horn-treble",
+          "group": "brass",
+          "name": "Bariton (Kunci G)",
+          "shortname": "Bar. TC",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.baritone-horn-treble",
+          "group": "brass",
+          "name": "Bariton (Kunci G)",
+          "shortname": "Bar. TC",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.euphonium",
+          "group": "brass",
+          "name": "Eufonium",
+          "shortname": "Euph.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.hq-tuba",
+          "group": "brass",
+          "name": "Tuba",
+          "shortname": "Tba.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "brass.tuba",
+          "group": "brass",
+          "name": "Tuba",
+          "shortname": "Tba.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "brass.brass",
+          "group": "brass",
+          "name": "Seksi Kuningan",
+          "shortname": "Seksi Brass",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "electronic-instruments",
+      "name": "Instrumen Elektronik",
+      "instruments": [
+        {
+          "id": "electronic-instruments.synth-bass-1",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Portamento",
+          "shortname": "Bas portamento",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-2",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Reese",
+          "shortname": "Bas beresonansi",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-3",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Petikan",
+          "shortname": "Bass Petik",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-1",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Underwide",
+          "shortname": "Uw. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-2",
+          "group": "electronic-instruments",
+          "name": "Synth Bass Padat",
+          "shortname": "Sd. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-3",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Ringan",
+          "shortname": "Lt. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-4",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Airbass",
+          "shortname": "Ab. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-5",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Evolution",
+          "shortname": "Ev. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-6",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Weekend",
+          "shortname": "Wk. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-7",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Plucky",
+          "shortname": "Pl. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-8",
+          "group": "electronic-instruments",
+          "name": "Bas Synth Fase",
+          "shortname": "Ph. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-9",
+          "group": "electronic-instruments",
+          "name": "Bas Synth Out",
+          "shortname": "Out Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-1",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Lonceng Megah",
+          "shortname": "Epc Bl LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-2",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Gelombang Gergaji Chorus",
+          "shortname": "Sw Ch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-3",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Lightsaber",
+          "shortname": "Lead Synth Terang",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-4",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Bintang Terang",
+          "shortname": "Brt S LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-5",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Kedalaman Antariksa",
+          "shortname": "Dp Sp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-6",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Komputer Fiksi Ilmiah",
+          "shortname": "SF Cp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-7",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Robot Bernyanyi",
+          "shortname": "Sg Rb LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-1",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Bintang Utara",
+          "shortname": "NS LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-2",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Bising",
+          "shortname": "Lead Synth Berisik",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-3",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Square 1",
+          "shortname": "Lead Synth Gelombang Kotak 1",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-4",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Drill",
+          "shortname": "Lead Synth Drill",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-5",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Funky",
+          "shortname": "Lead Synth Funk",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-6",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Komunikasi Astral",
+          "shortname": "Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-1",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Paduan Suara Eteris",
+          "shortname": "Dr Chr LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-2",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Orkestra Antariksa",
+          "shortname": "Sp Orch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-3",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Asteroid Melodik",
+          "shortname": "Mld Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-4",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Penjelajah Mars",
+          "shortname": "Mars LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.choir-synth",
+          "group": "electronic-instruments",
+          "name": "Synthesizer Paduan Suara",
+          "shortname": "Synth.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "free-reed",
+      "name": "Lidah Bebas",
+      "instruments": [
+        {
+          "id": "free-reed.accordion",
+          "group": "free-reed",
+          "name": "Akordeon",
+          "shortname": "Acc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "free-reed.harmonica",
+          "group": "free-reed",
+          "name": "Harmonika",
+          "shortname": "Harmonika",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "keyboards",
+      "name": "Papan Tuts",
+      "instruments": [
+        {
+          "id": "keyboards.hq-grand-piano",
+          "group": "keyboards",
+          "name": "Grand Piano",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hq-piano-tight",
+          "group": "keyboards",
+          "name": "Piano Kering",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hq-piano-concert",
+          "group": "keyboards",
+          "name": "Piano Konser",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.grand-piano",
+          "group": "keyboards",
+          "name": "Grand Piano",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "keyboards.piano",
+          "group": "keyboards",
+          "name": "Piano",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "keyboards.harpsichord",
+          "group": "keyboards",
+          "name": "Cembalo",
+          "shortname": "Cem.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.celesta",
+          "group": "keyboards",
+          "name": "Celesta",
+          "shortname": "Cel.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.organ",
+          "group": "keyboards",
+          "name": "Organ",
+          "shortname": "Org.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hammond-organ",
+          "group": "keyboards",
+          "name": "Organ Hammond",
+          "shortname": "Hm. Org.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.reed-organ",
+          "group": "keyboards",
+          "name": "Harmonium",
+          "shortname": "Harm.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.rotary-organ",
+          "group": "keyboards",
+          "name": "Organ Rotary",
+          "shortname": "Org. Rot.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.percussive-organ",
+          "group": "keyboards",
+          "name": "Organ Perkusif",
+          "shortname": "Org. Perk.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "pitched-percussion",
+      "name": "Perkusi Bernada",
+      "instruments": [
+        {
+          "id": "pitched-percussion.timpani",
+          "group": "pitched-percussion",
+          "name": "Timpani",
+          "shortname": "Timp.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.xylophone",
+          "group": "pitched-percussion",
+          "name": "Xilofon",
+          "shortname": "Xil.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.vibraphone",
+          "group": "pitched-percussion",
+          "name": "Vibrafon",
+          "shortname": "Vib.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.glockenspiel",
+          "group": "pitched-percussion",
+          "name": "Glockenspiel",
+          "shortname": "Glk.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.marimba",
+          "group": "pitched-percussion",
+          "name": "Marimba",
+          "shortname": "Mrm.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.tubular-bells",
+          "group": "pitched-percussion",
+          "name": "Lonceng Tabung (Lonceng Orkestra)",
+          "shortname": "Lon. Tab.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.music-box",
+          "group": "pitched-percussion",
+          "name": "Kotak Musik",
+          "shortname": "K. Musik",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.soprano-steel-drums",
+          "group": "pitched-percussion",
+          "name": "Steel drum sopran",
+          "shortname": "Sop. St. Dr.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "pitched-percussion.bass-steel-drums",
+          "group": "pitched-percussion",
+          "name": "Steel Drum Bas",
+          "shortname": "St. Dr. Bas",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "unpitched-percussion",
+      "name": "Perkusi",
+      "instruments": [
+        {
+          "id": "unpitched-percussion.hq-drumset-rock",
+          "group": "unpitched-percussion",
+          "name": "Set drum",
+          "shortname": "Drum",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumset-1",
+          "group": "unpitched-percussion",
+          "name": "Set drum",
+          "shortname": "Drum",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hq-orchestral-drumset",
+          "group": "unpitched-percussion",
+          "name": "Set Drum Orkestra",
+          "shortname": "Drum",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.hip-hop-drum-set",
+          "group": "unpitched-percussion",
+          "name": "Set Hip-hop",
+          "shortname": "HH Set",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.hq-marching-snare-drums",
+          "group": "unpitched-percussion",
+          "name": "Snare Drum Marching",
+          "shortname": "Mch Sn",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.marching-snare-drums",
+          "group": "unpitched-percussion",
+          "name": "Snare Drum Marching",
+          "shortname": "Mch Sn",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hq-marching-tenor-drums",
+          "group": "unpitched-percussion",
+          "name": "Drum Tenor Marching",
+          "shortname": "Mch Tn",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.marching-tenor-drums",
+          "group": "unpitched-percussion",
+          "name": "Drum Tenor Marching",
+          "shortname": "Mch Tn",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hq-marching-bass-drums",
+          "group": "unpitched-percussion",
+          "name": "Drum Bas Marching",
+          "shortname": "Mch Ba",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.marching-bass-drums",
+          "group": "unpitched-percussion",
+          "name": "Drum Bas Marching",
+          "shortname": "Mch Ba",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hq-marching-cymbals",
+          "group": "unpitched-percussion",
+          "name": "Simbal Marching",
+          "shortname": "Mch Cy",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.marching-cymbals",
+          "group": "unpitched-percussion",
+          "name": "Simbal Marching",
+          "shortname": "Mch Cy",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.concert-bass-drum",
+          "group": "unpitched-percussion",
+          "name": "Bass Drum Konser",
+          "shortname": "CBD",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.gong",
+          "group": "unpitched-percussion",
+          "name": "Gong Timur",
+          "shortname": "Gng.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.nagado-drums",
+          "group": "unpitched-percussion",
+          "name": "Drum Taiko Nagado Jepang",
+          "shortname": "Nag",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.woodblocks",
+          "group": "unpitched-percussion",
+          "name": "Blok kayu",
+          "shortname": "BK",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.bongos",
+          "group": "unpitched-percussion",
+          "name": "Bongo",
+          "shortname": "Bongo",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.congas",
+          "group": "unpitched-percussion",
+          "name": "Conga",
+          "shortname": "Con.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.claves",
+          "group": "unpitched-percussion",
+          "name": "Claves",
+          "shortname": "Claves",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.agogo-bells",
+          "group": "unpitched-percussion",
+          "name": "Lonceng Agogo",
+          "shortname": "Ago.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.whistles",
+          "group": "unpitched-percussion",
+          "name": "Peluit",
+          "shortname": "Pel.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.wind-chimes",
+          "group": "unpitched-percussion",
+          "name": "Lonceng Angin",
+          "shortname": "Lon Ang",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.finger-snap",
+          "group": "unpitched-percussion",
+          "name": "Jentikan Jari",
+          "shortname": "Fgr.",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.hand-clap",
+          "group": "unpitched-percussion",
+          "name": "Tepuk Tangan",
+          "shortname": "Clp",
+          "type": "unpitched",
+          "premium": false
+        },
+        {
+          "id": "unpitched-percussion.suspended-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Simbal Gantung",
+          "shortname": "Simbal gantung",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.triangle",
+          "group": "unpitched-percussion",
+          "name": "Triangel",
+          "shortname": "Tri.",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.jingle-bells",
+          "group": "unpitched-percussion",
+          "name": "Lonceng Kerincing",
+          "shortname": "Lcg Krn",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.maracas",
+          "group": "unpitched-percussion",
+          "name": "Marakas",
+          "shortname": "Mrks",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-acoustic-bass-drum",
+          "group": "unpitched-percussion",
+          "name": "Drum Bas Akustik",
+          "shortname": "BD",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-side-stick",
+          "group": "unpitched-percussion",
+          "name": "Side Stick",
+          "shortname": "Sd Stk",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-acoustic-snare-drum",
+          "group": "unpitched-percussion",
+          "name": "Snare Drum Akustik",
+          "shortname": "Snr",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-floor-tom",
+          "group": "unpitched-percussion",
+          "name": "Tom Lantai",
+          "shortname": "Fl Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-low-tom",
+          "group": "unpitched-percussion",
+          "name": "Tom Rendah",
+          "shortname": "L Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-low-mid-tom",
+          "group": "unpitched-percussion",
+          "name": "Tom Tengah-Rendah",
+          "shortname": "LM Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-mid-tom",
+          "group": "unpitched-percussion",
+          "name": "Tom Menengah",
+          "shortname": "M Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-high-mid-tom",
+          "group": "unpitched-percussion",
+          "name": "Tom Tengah-Tinggi",
+          "shortname": "HM Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-high-tom",
+          "group": "unpitched-percussion",
+          "name": "Tom Tinggi",
+          "shortname": "H Tom",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-closed-hi-hat",
+          "group": "unpitched-percussion",
+          "name": "Hi-hat tertutup",
+          "shortname": "Cl HH",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-open-hi-hat",
+          "group": "unpitched-percussion",
+          "name": "Hi-hat terbuka",
+          "shortname": "Op HH",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-pedal-hi-hat",
+          "group": "unpitched-percussion",
+          "name": "Pedal hi-hat",
+          "shortname": "Pd HH",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-crash-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Simbal Crash",
+          "shortname": "Crash",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-ride-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Simbal Ride",
+          "shortname": "Rd Cy",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-china-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Simbal China",
+          "shortname": "Ch Cy",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-ride-bell",
+          "group": "unpitched-percussion",
+          "name": "Bel Ride",
+          "shortname": "Rd Bl",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-tambourine",
+          "group": "unpitched-percussion",
+          "name": "Tamborin",
+          "shortname": "Tbr",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-splash-cymbal",
+          "group": "unpitched-percussion",
+          "name": "Simbal Splash",
+          "shortname": "Splash",
+          "type": "unpitched",
+          "premium": true
+        },
+        {
+          "id": "unpitched-percussion.drumline-cowbell",
+          "group": "unpitched-percussion",
+          "name": "Cowbell",
+          "shortname": "Cowbell",
+          "type": "unpitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "plucked-strings",
+      "name": "Dawai Petik",
+      "instruments": [
+        {
+          "id": "plucked-strings.hq-acoustic-guitar",
+          "group": "plucked-strings",
+          "name": "Gitar Akustik",
+          "shortname": "Git.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.guitar-nylon",
+          "group": "plucked-strings",
+          "name": "Gitar Klasik",
+          "shortname": "Git.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.guitar-steel",
+          "group": "plucked-strings",
+          "name": "Gitar Akustik",
+          "shortname": "Git.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.hq-ukulele",
+          "group": "plucked-strings",
+          "name": "Ukulele",
+          "shortname": "Uk.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.ukulele",
+          "group": "plucked-strings",
+          "name": "Ukulele",
+          "shortname": "Uk.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.hq-electric-guitar",
+          "group": "plucked-strings",
+          "name": "Gitar Elektrik",
+          "shortname": "Git. El.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.electric-guitar-clean",
+          "group": "plucked-strings",
+          "name": "Gitar Elektrik (bersih)",
+          "shortname": "Git. El.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.electric-guitar-jazz",
+          "group": "plucked-strings",
+          "name": "Gitar Elektrik (jazz)",
+          "shortname": "Git. El.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.electric-guitar-muted",
+          "group": "plucked-strings",
+          "name": "Gitar Elektrik (diredam)",
+          "shortname": "Git. El.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.premium-guitar-distortion",
+          "group": "plucked-strings",
+          "name": "Gitar Distorsi Tegangan Tinggi",
+          "shortname": "Dist. G.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.premium-guitar-crunch",
+          "group": "plucked-strings",
+          "name": "Gitar Elektrik Crunch",
+          "shortname": "G. Crch.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.premium-guitar-lead",
+          "group": "plucked-strings",
+          "name": "Gitar Elektrik Utama",
+          "shortname": "G. Lead",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.distortion-guitar",
+          "group": "plucked-strings",
+          "name": "Gitar Distorsi",
+          "shortname": "Git. Dist.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.hq-modern-electric-bass",
+          "group": "plucked-strings",
+          "name": "Bas Elektrik Modern",
+          "shortname": "Bas Mod.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.hq-vintage-electric-bass",
+          "group": "plucked-strings",
+          "name": "Bas Elektrik Vintage",
+          "shortname": "Bas Vin.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.electric-bass",
+          "group": "plucked-strings",
+          "name": "Gitar bas listrik",
+          "shortname": "El. B.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.electric-bass-pick",
+          "group": "plucked-strings",
+          "name": "Bas Elektrik (plektrum)",
+          "shortname": "Bas El.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.slap-bass",
+          "group": "plucked-strings",
+          "name": "Bas Slap",
+          "shortname": "Sl. Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.koto",
+          "group": "plucked-strings",
+          "name": "Koto Jepang",
+          "shortname": "Koto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.shamisen",
+          "group": "plucked-strings",
+          "name": "Shamisen (Kecapi Jepang)",
+          "shortname": "Sha.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.oud",
+          "group": "plucked-strings",
+          "name": "Oud (Kecapi Arab)",
+          "shortname": "Oud",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.banjo",
+          "group": "plucked-strings",
+          "name": "Banjo",
+          "shortname": "Bj.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.mandolin",
+          "group": "plucked-strings",
+          "name": "Mandolin",
+          "shortname": "Mdn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "plucked-strings.harp",
+          "group": "plucked-strings",
+          "name": "Harpa",
+          "shortname": "Har.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "plucked-strings.sitar",
+          "group": "plucked-strings",
+          "name": "Sitar",
+          "shortname": "Si.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "strings",
+      "name": "Instrumen Gesek",
+      "instruments": [
+        {
+          "id": "strings.hq-violin",
+          "group": "strings",
+          "name": "Biola",
+          "shortname": "Vln.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.violin",
+          "group": "strings",
+          "name": "Biola",
+          "shortname": "Vln.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "strings.violin-lead",
+          "group": "strings",
+          "name": "Biola Utama",
+          "shortname": "Vln. Ld.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.hq-viola",
+          "group": "strings",
+          "name": "Viola",
+          "shortname": "Vla.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.viola",
+          "group": "strings",
+          "name": "Viola",
+          "shortname": "Vla.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "strings.hq-cello",
+          "group": "strings",
+          "name": "Selo",
+          "shortname": "Vc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.violoncello",
+          "group": "strings",
+          "name": "Selo",
+          "shortname": "Vc.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "strings.hq-contrabass",
+          "group": "strings",
+          "name": "Kontrabas",
+          "shortname": "Cb.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.contrabass",
+          "group": "strings",
+          "name": "Kontrabas",
+          "shortname": "Cb.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "strings.string-ensemble",
+          "group": "strings",
+          "name": "Ansambel Gesek",
+          "shortname": "St. Ens.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "strings.erhu",
+          "group": "strings",
+          "name": "Erhu Tiongkok",
+          "shortname": "Er.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "vocals",
+      "name": "Vokal",
+      "instruments": [
+        {
+          "id": "vocals.hq-choir-soprano-women",
+          "group": "vocals",
+          "name": "Paduan Suara Sopran Wanita",
+          "shortname": "Sop.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-soprano-girls",
+          "group": "vocals",
+          "name": "Paduan Suara Sopran Anak Perempuan",
+          "shortname": "Sop.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-soprano-boys",
+          "group": "vocals",
+          "name": "Paduan Suara Sopran Anak Laki-laki",
+          "shortname": "Sop.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-countertenor-men",
+          "group": "vocals",
+          "name": "Paduan Suara Kontratenor Pria",
+          "shortname": "Ktr.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-alto-women",
+          "group": "vocals",
+          "name": "Paduan Suara Alto Wanita",
+          "shortname": "Alto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-alto-girls",
+          "group": "vocals",
+          "name": "Paduan Suara Alto Anak Perempuan",
+          "shortname": "Alto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-tenor-hall",
+          "group": "vocals",
+          "name": "Paduan Suara Tenor Aula",
+          "shortname": "Ten.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-tenor-cathedral",
+          "group": "vocals",
+          "name": "Paduan Suara Tenor Katedral",
+          "shortname": "Ten.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-bass-hall",
+          "group": "vocals",
+          "name": "Paduan Suara Bas Aula",
+          "shortname": "Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.hq-choir-bass-cathedral",
+          "group": "vocals",
+          "name": "Paduan Suara Bas Katedral",
+          "shortname": "Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.choir-soprano",
+          "group": "vocals",
+          "name": "Paduan Suara Sopran",
+          "shortname": "Sop.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "vocals.choir-alto",
+          "group": "vocals",
+          "name": "Paduan Suara Alto",
+          "shortname": "Alto",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "vocals.choir-tenor",
+          "group": "vocals",
+          "name": "Paduan Suara Tenor",
+          "shortname": "Ten.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "vocals.choir-bass",
+          "group": "vocals",
+          "name": "Paduan Suara Bas",
+          "shortname": "Bas",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "vocals.choir-aahs",
+          "group": "vocals",
+          "name": "Paduan Suara Aah",
+          "shortname": "Ch. Aa.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.voice-oohs",
+          "group": "vocals",
+          "name": "Vokal Ooh",
+          "shortname": "Vk. Oo.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.voice-lead",
+          "group": "vocals",
+          "name": "Vokal Utama",
+          "shortname": "Vok. Ut.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "vocals.kazoo",
+          "group": "vocals",
+          "name": "Kazoo",
+          "shortname": "Kz.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "woodwinds",
+      "name": "Alat Tiup Kayu",
+      "instruments": [
+        {
+          "id": "woodwinds.piccolo",
+          "group": "woodwinds",
+          "name": "Pikolo",
+          "shortname": "Picc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-orchestral-flute",
+          "group": "woodwinds",
+          "name": "Seruling Orkestra",
+          "shortname": "Flt.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-traditional-flute",
+          "group": "woodwinds",
+          "name": "Seruling Tradisional",
+          "shortname": "Flt.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.flute",
+          "group": "woodwinds",
+          "name": "Seruling",
+          "shortname": "Fl.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-flute",
+          "group": "woodwinds",
+          "name": "Seruling alto",
+          "shortname": "Fl. Alto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.pan-flute",
+          "group": "woodwinds",
+          "name": "Seruling Pan",
+          "shortname": "Pn. Fl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.recorder",
+          "group": "woodwinds",
+          "name": "Rekorder",
+          "shortname": "Rec.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.alto-recorder-in-f",
+          "group": "woodwinds",
+          "name": "Rekorder Alto (F)",
+          "shortname": "Rek. Alto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.tin-whistle",
+          "group": "woodwinds",
+          "name": "Seruling Timah",
+          "shortname": "Tin whistle",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.oboe",
+          "group": "woodwinds",
+          "name": "Obo",
+          "shortname": "Ob.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.english-horn",
+          "group": "woodwinds",
+          "name": "Korno Inggris",
+          "shortname": "E. Hn.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-concert-clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet Konser (Bb)",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-clarinet-ensemble",
+          "group": "woodwinds",
+          "name": "Duet Klarinet",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet Alto",
+          "shortname": "Kl. Alto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.bass-clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet Bas",
+          "shortname": "Kl. Bas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.contrabass-clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet Kontrabas",
+          "shortname": "Kl. Kbas.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.bassoon",
+          "group": "woodwinds",
+          "name": "Fagot",
+          "shortname": "Fag.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.contrabassoon",
+          "group": "woodwinds",
+          "name": "Kontrafagot",
+          "shortname": "Kontrafagot",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-soprano-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Sopran",
+          "shortname": "S. Sax.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-alto-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Alto",
+          "shortname": "Saks. Alto",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-tenor-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Tenor",
+          "shortname": "T. Sax.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-baritone-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Bariton",
+          "shortname": "Saks. Bar.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.soprano-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Sopran",
+          "shortname": "S. Sax.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Alto",
+          "shortname": "Saks. Alto",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.tenor-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Tenor",
+          "shortname": "T. Sax.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.baritone-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Bariton",
+          "shortname": "Saks. Bar.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.bagpipe",
+          "group": "woodwinds",
+          "name": "Bagpipe",
+          "shortname": "Bagp.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.ocarina",
+          "group": "woodwinds",
+          "name": "Okarina",
+          "shortname": "Oc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.dizi-flute",
+          "group": "woodwinds",
+          "name": "Dizi (Seruling Tiongkok)",
+          "shortname": "Di.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.shakuhachi-flute",
+          "group": "woodwinds",
+          "name": "Shakuhachi (seruling Jepang)",
+          "shortname": "Sh.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "special",
+      "name": "Khusus",
+      "instruments": [
+        {
+          "id": "special.cat",
+          "group": "special",
+          "name": "Kucing Mengeong",
+          "shortname": "Kucing",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "special.starwars",
+          "group": "special",
+          "name": "Set Star Wars",
+          "shortname": "St. W.",
+          "type": "unpitched",
+          "premium": false
+        }
+      ]
+    }
+  ]
+}
