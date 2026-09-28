@@ -21,8 +21,8 @@ export interface Instrument {
   premium: boolean;
   /**
    * Key a transposing instrument's parts are usually written in, e.g. `"Bb"` for a clarinet or
-   * `"F"` for a horn. Same spelling as the OMR `transposeKey`. Absent for instruments written at
-   * concert pitch, including octave-transposing ones (piccolo, guitar, contrabass).
+   * `"F"` for a horn. Absent for instruments written at concert pitch, including octave-transposing
+   * ones (piccolo, guitar, contrabass).
    *
    * @pattern ^[A-G](b|#)?$
    */
