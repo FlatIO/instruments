@@ -21,6 +21,7 @@ export const groups: InstrumentGroup[] = rawData.groups.map(group => ({
     shortname: instrument.shortname,
     type: toInstrumentType(instrument.type, instrument.id),
     premium: instrument.premium,
+    ...('writtenKey' in instrument && { writtenKey: instrument.writtenKey }),
   })),
 }));
 
