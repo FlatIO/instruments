@@ -42,6 +42,7 @@ interface Instrument {
   shortname: string;   // short staff label, e.g. "Pno."
   type: 'pitched' | 'unpitched';
   premium: boolean;    // true → requires a paid Flat plan
+  writtenKey?: string; // transposing instruments only: usual written key, e.g. "Bb" (clarinet), "F" (horn)
 }
 ```
 

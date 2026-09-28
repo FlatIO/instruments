@@ -1,6 +1,278 @@
 {
   "groups": [
     {
+      "id": "woodwinds",
+      "name": "Alat Tiup Kayu",
+      "instruments": [
+        {
+          "id": "woodwinds.piccolo",
+          "group": "woodwinds",
+          "name": "Pikolo",
+          "shortname": "Picc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-orchestral-flute",
+          "group": "woodwinds",
+          "name": "Seruling Orkestra",
+          "shortname": "Flt.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-traditional-flute",
+          "group": "woodwinds",
+          "name": "Seruling Tradisional",
+          "shortname": "Flt.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.flute",
+          "group": "woodwinds",
+          "name": "Seruling",
+          "shortname": "Fl.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-flute",
+          "group": "woodwinds",
+          "name": "Seruling alto",
+          "shortname": "Fl. Alto",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "G"
+        },
+        {
+          "id": "woodwinds.pan-flute",
+          "group": "woodwinds",
+          "name": "Seruling Pan",
+          "shortname": "Pn. Fl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.recorder",
+          "group": "woodwinds",
+          "name": "Rekorder",
+          "shortname": "Rec.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.alto-recorder-in-f",
+          "group": "woodwinds",
+          "name": "Rekorder Alto (F)",
+          "shortname": "Rek. Alto",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "F"
+        },
+        {
+          "id": "woodwinds.tin-whistle",
+          "group": "woodwinds",
+          "name": "Seruling Timah",
+          "shortname": "Tin whistle",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.oboe",
+          "group": "woodwinds",
+          "name": "Obo",
+          "shortname": "Ob.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.english-horn",
+          "group": "woodwinds",
+          "name": "Korno Inggris",
+          "shortname": "E. Hn.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "F"
+        },
+        {
+          "id": "woodwinds.hq-concert-clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet Konser (Bb)",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-clarinet-ensemble",
+          "group": "woodwinds",
+          "name": "Duet Klarinet",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet",
+          "shortname": "Kl.",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.alto-clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet Alto",
+          "shortname": "Kl. Alto",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.bass-clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet Bas",
+          "shortname": "Kl. Bas",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.contrabass-clarinet",
+          "group": "woodwinds",
+          "name": "Klarinet Kontrabas",
+          "shortname": "Kl. Kbas.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.bassoon",
+          "group": "woodwinds",
+          "name": "Fagot",
+          "shortname": "Fag.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.contrabassoon",
+          "group": "woodwinds",
+          "name": "Kontrafagot",
+          "shortname": "Kontrafagot",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-soprano-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Sopran",
+          "shortname": "S. Sax.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-alto-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Alto",
+          "shortname": "Saks. Alto",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.hq-tenor-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Tenor",
+          "shortname": "T. Sax.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-baritone-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Bariton",
+          "shortname": "Saks. Bar.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.soprano-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Sopran",
+          "shortname": "S. Sax.",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.alto-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Alto",
+          "shortname": "Saks. Alto",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.tenor-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Tenor",
+          "shortname": "T. Sax.",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.baritone-saxophone",
+          "group": "woodwinds",
+          "name": "Saksofon Bariton",
+          "shortname": "Saks. Bar.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.bagpipe",
+          "group": "woodwinds",
+          "name": "Bagpipe",
+          "shortname": "Bagp.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.ocarina",
+          "group": "woodwinds",
+          "name": "Okarina",
+          "shortname": "Oc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.dizi-flute",
+          "group": "woodwinds",
+          "name": "Dizi (Seruling Tiongkok)",
+          "shortname": "Di.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.shakuhachi-flute",
+          "group": "woodwinds",
+          "name": "Shakuhachi (seruling Jepang)",
+          "shortname": "Sh.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
       "id": "brass",
       "name": "Instrumen tiup kuningan",
       "instruments": [
@@ -10,7 +282,8 @@
           "name": "Trompet",
           "shortname": "Tpt.",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.trumpet",
@@ -18,7 +291,8 @@
           "name": "Trompet",
           "shortname": "Tpt.",
           "type": "pitched",
-          "premium": false
+          "premium": false,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.hq-trombone",
@@ -42,7 +316,8 @@
           "name": "Korno di F",
           "shortname": "F Hn.",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "F"
         },
         {
           "id": "brass.horn",
@@ -50,7 +325,8 @@
           "name": "Korno di F",
           "shortname": "F Hn.",
           "type": "pitched",
-          "premium": false
+          "premium": false,
+          "writtenKey": "F"
         },
         {
           "id": "brass.hq-horn-in-c",
@@ -74,7 +350,8 @@
           "name": "Korno di D",
           "shortname": "Korno D",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "D"
         },
         {
           "id": "brass.horn-in-d",
@@ -82,7 +359,8 @@
           "name": "Korno di D",
           "shortname": "Korno D",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "D"
         },
         {
           "id": "brass.hq-baritone-horn",
@@ -106,7 +384,8 @@
           "name": "Bariton (Kunci G)",
           "shortname": "Bar. TC",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.baritone-horn-treble",
@@ -114,7 +393,8 @@
           "name": "Bariton (Kunci G)",
           "shortname": "Bar. TC",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.euphonium",
@@ -145,376 +425,6 @@
           "group": "brass",
           "name": "Seksi Kuningan",
           "shortname": "Seksi Brass",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "electronic-instruments",
-      "name": "Instrumen Elektronik",
-      "instruments": [
-        {
-          "id": "electronic-instruments.synth-bass-1",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Portamento",
-          "shortname": "Bas portamento",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-2",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Reese",
-          "shortname": "Bas beresonansi",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-3",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Petikan",
-          "shortname": "Bass Petik",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-1",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Underwide",
-          "shortname": "Uw. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-2",
-          "group": "electronic-instruments",
-          "name": "Synth Bass Padat",
-          "shortname": "Sd. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-3",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Ringan",
-          "shortname": "Lt. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-4",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Airbass",
-          "shortname": "Ab. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-5",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Evolution",
-          "shortname": "Ev. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-6",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Weekend",
-          "shortname": "Wk. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-7",
-          "group": "electronic-instruments",
-          "name": "Bas Sintetiser Plucky",
-          "shortname": "Pl. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-8",
-          "group": "electronic-instruments",
-          "name": "Bas Synth Fase",
-          "shortname": "Ph. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-9",
-          "group": "electronic-instruments",
-          "name": "Bas Synth Out",
-          "shortname": "Out Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-1",
-          "group": "electronic-instruments",
-          "name": "Synth Lead Lonceng Megah",
-          "shortname": "Epc Bl LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-2",
-          "group": "electronic-instruments",
-          "name": "Synth Lead Gelombang Gergaji Chorus",
-          "shortname": "Sw Ch LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-3",
-          "group": "electronic-instruments",
-          "name": "Synth Lead Lightsaber",
-          "shortname": "Lead Synth Terang",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-4",
-          "group": "electronic-instruments",
-          "name": "Synth Lead Bintang Terang",
-          "shortname": "Brt S LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-5",
-          "group": "electronic-instruments",
-          "name": "Synth Lead Kedalaman Antariksa",
-          "shortname": "Dp Sp LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-6",
-          "group": "electronic-instruments",
-          "name": "Synth Lead Komputer Fiksi Ilmiah",
-          "shortname": "SF Cp LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-7",
-          "group": "electronic-instruments",
-          "name": "Synth Lead Robot Bernyanyi",
-          "shortname": "Sg Rb LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-1",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Bintang Utara",
-          "shortname": "NS LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-2",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Bising",
-          "shortname": "Lead Synth Berisik",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-3",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Square 1",
-          "shortname": "Lead Synth Gelombang Kotak 1",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-4",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Drill",
-          "shortname": "Lead Synth Drill",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-5",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Funky",
-          "shortname": "Lead Synth Funk",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-6",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Komunikasi Astral",
-          "shortname": "Ast LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-1",
-          "group": "electronic-instruments",
-          "name": "Synth Lead Paduan Suara Eteris",
-          "shortname": "Dr Chr LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-2",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Orkestra Antariksa",
-          "shortname": "Sp Orch LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-3",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Asteroid Melodik",
-          "shortname": "Mld Ast LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-4",
-          "group": "electronic-instruments",
-          "name": "Lead Synth Penjelajah Mars",
-          "shortname": "Mars LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.choir-synth",
-          "group": "electronic-instruments",
-          "name": "Synthesizer Paduan Suara",
-          "shortname": "Synth.",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "free-reed",
-      "name": "Lidah Bebas",
-      "instruments": [
-        {
-          "id": "free-reed.accordion",
-          "group": "free-reed",
-          "name": "Akordeon",
-          "shortname": "Acc.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "free-reed.harmonica",
-          "group": "free-reed",
-          "name": "Harmonika",
-          "shortname": "Harmonika",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "keyboards",
-      "name": "Papan Tuts",
-      "instruments": [
-        {
-          "id": "keyboards.hq-grand-piano",
-          "group": "keyboards",
-          "name": "Grand Piano",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hq-piano-tight",
-          "group": "keyboards",
-          "name": "Piano Kering",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hq-piano-concert",
-          "group": "keyboards",
-          "name": "Piano Konser",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.grand-piano",
-          "group": "keyboards",
-          "name": "Grand Piano",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "keyboards.piano",
-          "group": "keyboards",
-          "name": "Piano",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "keyboards.harpsichord",
-          "group": "keyboards",
-          "name": "Cembalo",
-          "shortname": "Cem.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.celesta",
-          "group": "keyboards",
-          "name": "Celesta",
-          "shortname": "Cel.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.organ",
-          "group": "keyboards",
-          "name": "Organ",
-          "shortname": "Org.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hammond-organ",
-          "group": "keyboards",
-          "name": "Organ Hammond",
-          "shortname": "Hm. Org.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.reed-organ",
-          "group": "keyboards",
-          "name": "Harmonium",
-          "shortname": "Harm.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.rotary-organ",
-          "group": "keyboards",
-          "name": "Organ Rotary",
-          "shortname": "Org. Rot.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.percussive-organ",
-          "group": "keyboards",
-          "name": "Organ Perkusif",
-          "shortname": "Org. Perk.",
           "type": "pitched",
           "premium": true
         }
@@ -1187,94 +1097,370 @@
       ]
     },
     {
-      "id": "strings",
-      "name": "Instrumen Gesek",
+      "id": "keyboards",
+      "name": "Papan Tuts",
       "instruments": [
         {
-          "id": "strings.hq-violin",
-          "group": "strings",
-          "name": "Biola",
-          "shortname": "Vln.",
+          "id": "keyboards.hq-grand-piano",
+          "group": "keyboards",
+          "name": "Grand Piano",
+          "shortname": "Pno.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.violin",
-          "group": "strings",
-          "name": "Biola",
-          "shortname": "Vln.",
+          "id": "keyboards.hq-piano-tight",
+          "group": "keyboards",
+          "name": "Piano Kering",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hq-piano-concert",
+          "group": "keyboards",
+          "name": "Piano Konser",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.grand-piano",
+          "group": "keyboards",
+          "name": "Grand Piano",
+          "shortname": "Pno.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "strings.violin-lead",
-          "group": "strings",
-          "name": "Biola Utama",
-          "shortname": "Vln. Ld.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "strings.hq-viola",
-          "group": "strings",
-          "name": "Viola",
-          "shortname": "Vla.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "strings.viola",
-          "group": "strings",
-          "name": "Viola",
-          "shortname": "Vla.",
+          "id": "keyboards.piano",
+          "group": "keyboards",
+          "name": "Piano",
+          "shortname": "Pno.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "strings.hq-cello",
-          "group": "strings",
-          "name": "Selo",
-          "shortname": "Vc.",
+          "id": "keyboards.harpsichord",
+          "group": "keyboards",
+          "name": "Cembalo",
+          "shortname": "Cem.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.violoncello",
-          "group": "strings",
-          "name": "Selo",
-          "shortname": "Vc.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "strings.hq-contrabass",
-          "group": "strings",
-          "name": "Kontrabas",
-          "shortname": "Cb.",
+          "id": "keyboards.celesta",
+          "group": "keyboards",
+          "name": "Celesta",
+          "shortname": "Cel.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.contrabass",
-          "group": "strings",
-          "name": "Kontrabas",
-          "shortname": "Cb.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "strings.string-ensemble",
-          "group": "strings",
-          "name": "Ansambel Gesek",
-          "shortname": "St. Ens.",
+          "id": "keyboards.organ",
+          "group": "keyboards",
+          "name": "Organ",
+          "shortname": "Org.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.erhu",
-          "group": "strings",
-          "name": "Erhu Tiongkok",
-          "shortname": "Er.",
+          "id": "keyboards.hammond-organ",
+          "group": "keyboards",
+          "name": "Organ Hammond",
+          "shortname": "Hm. Org.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.reed-organ",
+          "group": "keyboards",
+          "name": "Harmonium",
+          "shortname": "Harm.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.rotary-organ",
+          "group": "keyboards",
+          "name": "Organ Rotary",
+          "shortname": "Org. Rot.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.percussive-organ",
+          "group": "keyboards",
+          "name": "Organ Perkusif",
+          "shortname": "Org. Perk.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "free-reed",
+      "name": "Lidah Bebas",
+      "instruments": [
+        {
+          "id": "free-reed.accordion",
+          "group": "free-reed",
+          "name": "Akordeon",
+          "shortname": "Acc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "free-reed.harmonica",
+          "group": "free-reed",
+          "name": "Harmonika",
+          "shortname": "Harmonika",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "electronic-instruments",
+      "name": "Instrumen Elektronik",
+      "instruments": [
+        {
+          "id": "electronic-instruments.synth-bass-1",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Portamento",
+          "shortname": "Bas portamento",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-2",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Reese",
+          "shortname": "Bas beresonansi",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-3",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Petikan",
+          "shortname": "Bass Petik",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-1",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Underwide",
+          "shortname": "Uw. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-2",
+          "group": "electronic-instruments",
+          "name": "Synth Bass Padat",
+          "shortname": "Sd. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-3",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Ringan",
+          "shortname": "Lt. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-4",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Airbass",
+          "shortname": "Ab. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-5",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Evolution",
+          "shortname": "Ev. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-6",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Weekend",
+          "shortname": "Wk. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-7",
+          "group": "electronic-instruments",
+          "name": "Bas Sintetiser Plucky",
+          "shortname": "Pl. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-8",
+          "group": "electronic-instruments",
+          "name": "Bas Synth Fase",
+          "shortname": "Ph. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-9",
+          "group": "electronic-instruments",
+          "name": "Bas Synth Out",
+          "shortname": "Out Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-1",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Lonceng Megah",
+          "shortname": "Epc Bl LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-2",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Gelombang Gergaji Chorus",
+          "shortname": "Sw Ch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-3",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Lightsaber",
+          "shortname": "Lead Synth Terang",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-4",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Bintang Terang",
+          "shortname": "Brt S LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-5",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Kedalaman Antariksa",
+          "shortname": "Dp Sp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-6",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Komputer Fiksi Ilmiah",
+          "shortname": "SF Cp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-7",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Robot Bernyanyi",
+          "shortname": "Sg Rb LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-1",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Bintang Utara",
+          "shortname": "NS LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-2",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Bising",
+          "shortname": "Lead Synth Berisik",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-3",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Square 1",
+          "shortname": "Lead Synth Gelombang Kotak 1",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-4",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Drill",
+          "shortname": "Lead Synth Drill",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-5",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Funky",
+          "shortname": "Lead Synth Funk",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-6",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Komunikasi Astral",
+          "shortname": "Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-1",
+          "group": "electronic-instruments",
+          "name": "Synth Lead Paduan Suara Eteris",
+          "shortname": "Dr Chr LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-2",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Orkestra Antariksa",
+          "shortname": "Sp Orch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-3",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Asteroid Melodik",
+          "shortname": "Mld Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-4",
+          "group": "electronic-instruments",
+          "name": "Lead Synth Penjelajah Mars",
+          "shortname": "Mars LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.choir-synth",
+          "group": "electronic-instruments",
+          "name": "Synthesizer Paduan Suara",
+          "shortname": "Synth.",
           "type": "pitched",
           "premium": true
         }
@@ -1431,254 +1617,94 @@
       ]
     },
     {
-      "id": "woodwinds",
-      "name": "Alat Tiup Kayu",
+      "id": "strings",
+      "name": "Instrumen Gesek",
       "instruments": [
         {
-          "id": "woodwinds.piccolo",
-          "group": "woodwinds",
-          "name": "Pikolo",
-          "shortname": "Picc.",
+          "id": "strings.hq-violin",
+          "group": "strings",
+          "name": "Biola",
+          "shortname": "Vln.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-orchestral-flute",
-          "group": "woodwinds",
-          "name": "Seruling Orkestra",
-          "shortname": "Flt.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-traditional-flute",
-          "group": "woodwinds",
-          "name": "Seruling Tradisional",
-          "shortname": "Flt.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.flute",
-          "group": "woodwinds",
-          "name": "Seruling",
-          "shortname": "Fl.",
+          "id": "strings.violin",
+          "group": "strings",
+          "name": "Biola",
+          "shortname": "Vln.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.alto-flute",
-          "group": "woodwinds",
-          "name": "Seruling alto",
-          "shortname": "Fl. Alto",
+          "id": "strings.violin-lead",
+          "group": "strings",
+          "name": "Biola Utama",
+          "shortname": "Vln. Ld.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.pan-flute",
-          "group": "woodwinds",
-          "name": "Seruling Pan",
-          "shortname": "Pn. Fl.",
+          "id": "strings.hq-viola",
+          "group": "strings",
+          "name": "Viola",
+          "shortname": "Vla.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.recorder",
-          "group": "woodwinds",
-          "name": "Rekorder",
-          "shortname": "Rec.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.alto-recorder-in-f",
-          "group": "woodwinds",
-          "name": "Rekorder Alto (F)",
-          "shortname": "Rek. Alto",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.tin-whistle",
-          "group": "woodwinds",
-          "name": "Seruling Timah",
-          "shortname": "Tin whistle",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.oboe",
-          "group": "woodwinds",
-          "name": "Obo",
-          "shortname": "Ob.",
+          "id": "strings.viola",
+          "group": "strings",
+          "name": "Viola",
+          "shortname": "Vla.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.english-horn",
-          "group": "woodwinds",
-          "name": "Korno Inggris",
-          "shortname": "E. Hn.",
+          "id": "strings.hq-cello",
+          "group": "strings",
+          "name": "Selo",
+          "shortname": "Vc.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-concert-clarinet",
-          "group": "woodwinds",
-          "name": "Klarinet Konser (Bb)",
-          "shortname": "Kl.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-clarinet-ensemble",
-          "group": "woodwinds",
-          "name": "Duet Klarinet",
-          "shortname": "Kl.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.clarinet",
-          "group": "woodwinds",
-          "name": "Klarinet",
-          "shortname": "Kl.",
+          "id": "strings.violoncello",
+          "group": "strings",
+          "name": "Selo",
+          "shortname": "Vc.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.alto-clarinet",
-          "group": "woodwinds",
-          "name": "Klarinet Alto",
-          "shortname": "Kl. Alto",
+          "id": "strings.hq-contrabass",
+          "group": "strings",
+          "name": "Kontrabas",
+          "shortname": "Cb.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.bass-clarinet",
-          "group": "woodwinds",
-          "name": "Klarinet Bas",
-          "shortname": "Kl. Bas",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.contrabass-clarinet",
-          "group": "woodwinds",
-          "name": "Klarinet Kontrabas",
-          "shortname": "Kl. Kbas.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.bassoon",
-          "group": "woodwinds",
-          "name": "Fagot",
-          "shortname": "Fag.",
+          "id": "strings.contrabass",
+          "group": "strings",
+          "name": "Kontrabas",
+          "shortname": "Cb.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.contrabassoon",
-          "group": "woodwinds",
-          "name": "Kontrafagot",
-          "shortname": "Kontrafagot",
+          "id": "strings.string-ensemble",
+          "group": "strings",
+          "name": "Ansambel Gesek",
+          "shortname": "St. Ens.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-soprano-saxophone",
-          "group": "woodwinds",
-          "name": "Saksofon Sopran",
-          "shortname": "S. Sax.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-alto-saxophone",
-          "group": "woodwinds",
-          "name": "Saksofon Alto",
-          "shortname": "Saks. Alto",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-tenor-saxophone",
-          "group": "woodwinds",
-          "name": "Saksofon Tenor",
-          "shortname": "T. Sax.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-baritone-saxophone",
-          "group": "woodwinds",
-          "name": "Saksofon Bariton",
-          "shortname": "Saks. Bar.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.soprano-saxophone",
-          "group": "woodwinds",
-          "name": "Saksofon Sopran",
-          "shortname": "S. Sax.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.alto-saxophone",
-          "group": "woodwinds",
-          "name": "Saksofon Alto",
-          "shortname": "Saks. Alto",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.tenor-saxophone",
-          "group": "woodwinds",
-          "name": "Saksofon Tenor",
-          "shortname": "T. Sax.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.baritone-saxophone",
-          "group": "woodwinds",
-          "name": "Saksofon Bariton",
-          "shortname": "Saks. Bar.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.bagpipe",
-          "group": "woodwinds",
-          "name": "Bagpipe",
-          "shortname": "Bagp.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.ocarina",
-          "group": "woodwinds",
-          "name": "Okarina",
-          "shortname": "Oc.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.dizi-flute",
-          "group": "woodwinds",
-          "name": "Dizi (Seruling Tiongkok)",
-          "shortname": "Di.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.shakuhachi-flute",
-          "group": "woodwinds",
-          "name": "Shakuhachi (seruling Jepang)",
-          "shortname": "Sh.",
+          "id": "strings.erhu",
+          "group": "strings",
+          "name": "Erhu Tiongkok",
+          "shortname": "Er.",
           "type": "pitched",
           "premium": true
         }

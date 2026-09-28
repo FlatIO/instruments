@@ -1,6 +1,278 @@
 {
   "groups": [
     {
+      "id": "woodwinds",
+      "name": "Viento madera",
+      "instruments": [
+        {
+          "id": "woodwinds.piccolo",
+          "group": "woodwinds",
+          "name": "Flautín",
+          "shortname": "Picc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-orchestral-flute",
+          "group": "woodwinds",
+          "name": "Flauta orquestal",
+          "shortname": "Fla.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-traditional-flute",
+          "group": "woodwinds",
+          "name": "Flauta tradicional",
+          "shortname": "Fla.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.flute",
+          "group": "woodwinds",
+          "name": "Flauta",
+          "shortname": "Fl.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-flute",
+          "group": "woodwinds",
+          "name": "Flauta contralto",
+          "shortname": "A. Fl.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "G"
+        },
+        {
+          "id": "woodwinds.pan-flute",
+          "group": "woodwinds",
+          "name": "Flauta de Pan",
+          "shortname": "Fl. de pan",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.recorder",
+          "group": "woodwinds",
+          "name": "Flauta dulce",
+          "shortname": "Flauta dulce",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.alto-recorder-in-f",
+          "group": "woodwinds",
+          "name": "Flauta dulce alto en Fa",
+          "shortname": "Flauta dulce alto",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "F"
+        },
+        {
+          "id": "woodwinds.tin-whistle",
+          "group": "woodwinds",
+          "name": "Flauta irlandesa",
+          "shortname": "Fl. irl.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.oboe",
+          "group": "woodwinds",
+          "name": "Oboe",
+          "shortname": "Ob.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.english-horn",
+          "group": "woodwinds",
+          "name": "Corno inglés",
+          "shortname": "C. Ing.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "F"
+        },
+        {
+          "id": "woodwinds.hq-concert-clarinet",
+          "group": "woodwinds",
+          "name": "Clarinete de concierto (Sib)",
+          "shortname": "Cl.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-clarinet-ensemble",
+          "group": "woodwinds",
+          "name": "Dúo de clarinetes",
+          "shortname": "Cl.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.clarinet",
+          "group": "woodwinds",
+          "name": "Clarinete",
+          "shortname": "Cl.",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.alto-clarinet",
+          "group": "woodwinds",
+          "name": "Clarinete alto",
+          "shortname": "Al. Cl.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.bass-clarinet",
+          "group": "woodwinds",
+          "name": "Clarinete bajo",
+          "shortname": "B. Cl.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.contrabass-clarinet",
+          "group": "woodwinds",
+          "name": "Clarinete contrabajo",
+          "shortname": "Cb. Cl.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.bassoon",
+          "group": "woodwinds",
+          "name": "Fagot",
+          "shortname": "Bsn.",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.contrabassoon",
+          "group": "woodwinds",
+          "name": "Contrafagot",
+          "shortname": "Contrafagot",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-soprano-saxophone",
+          "group": "woodwinds",
+          "name": "Saxofón soprano",
+          "shortname": "S. Sax.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-alto-saxophone",
+          "group": "woodwinds",
+          "name": "Saxofón contralto",
+          "shortname": "A. Sax.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.hq-tenor-saxophone",
+          "group": "woodwinds",
+          "name": "Saxofón tenor",
+          "shortname": "Sax. T.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-baritone-saxophone",
+          "group": "woodwinds",
+          "name": "Saxofón barítono",
+          "shortname": "Bar. Sax.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.soprano-saxophone",
+          "group": "woodwinds",
+          "name": "Saxofón soprano",
+          "shortname": "S. Sax.",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.alto-saxophone",
+          "group": "woodwinds",
+          "name": "Saxofón contralto",
+          "shortname": "A. Sax.",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.tenor-saxophone",
+          "group": "woodwinds",
+          "name": "Saxofón tenor",
+          "shortname": "Sax. T.",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.baritone-saxophone",
+          "group": "woodwinds",
+          "name": "Saxofón barítono",
+          "shortname": "Bar. Sax.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.bagpipe",
+          "group": "woodwinds",
+          "name": "Gaita",
+          "shortname": "Gait.",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.ocarina",
+          "group": "woodwinds",
+          "name": "Ocarina",
+          "shortname": "Ocarina",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.dizi-flute",
+          "group": "woodwinds",
+          "name": "Dizi (flauta china)",
+          "shortname": "Di.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.shakuhachi-flute",
+          "group": "woodwinds",
+          "name": "Shakuhachi (flauta japonesa)",
+          "shortname": "Shaker",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
       "id": "brass",
       "name": "Metales",
       "instruments": [
@@ -10,7 +282,8 @@
           "name": "Trompeta",
           "shortname": "Tpt.",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.trumpet",
@@ -18,7 +291,8 @@
           "name": "Trompeta",
           "shortname": "Tpt.",
           "type": "pitched",
-          "premium": false
+          "premium": false,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.hq-trombone",
@@ -42,7 +316,8 @@
           "name": "Corno en Fa",
           "shortname": "F Hn.",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "F"
         },
         {
           "id": "brass.horn",
@@ -50,7 +325,8 @@
           "name": "Corno en Fa",
           "shortname": "F Hn.",
           "type": "pitched",
-          "premium": false
+          "premium": false,
+          "writtenKey": "F"
         },
         {
           "id": "brass.hq-horn-in-c",
@@ -74,7 +350,8 @@
           "name": "Corno en Re",
           "shortname": "Corno francés en Re",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "D"
         },
         {
           "id": "brass.horn-in-d",
@@ -82,7 +359,8 @@
           "name": "Corno en Re",
           "shortname": "Corno francés en Re",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "D"
         },
         {
           "id": "brass.hq-baritone-horn",
@@ -106,7 +384,8 @@
           "name": "Barítono TC",
           "shortname": "Bar. TC",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.baritone-horn-treble",
@@ -114,7 +393,8 @@
           "name": "Barítono TC",
           "shortname": "Bar. TC",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.euphonium",
@@ -145,376 +425,6 @@
           "group": "brass",
           "name": "Sección de metales",
           "shortname": "Sección de metales",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "electronic-instruments",
-      "name": "Instrumentos electrónicos",
-      "instruments": [
-        {
-          "id": "electronic-instruments.synth-bass-1",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador con portamento",
-          "shortname": "Bajo con portamento",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-2",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador Reese",
-          "shortname": "Bajo resonante",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-3",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador punteado",
-          "shortname": "Bajo punteado",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-1",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador Underwide",
-          "shortname": "Uw. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-2",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador sólido",
-          "shortname": "Sd. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-3",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador ligero",
-          "shortname": "Lt. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-4",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador Airbass",
-          "shortname": "Ab. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-5",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador Evolution",
-          "shortname": "Ev. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-6",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador Weekend",
-          "shortname": "Wk. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-7",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador percusivo",
-          "shortname": "Pl. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-8",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador con fase",
-          "shortname": "Ph. Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-9",
-          "group": "electronic-instruments",
-          "name": "Bajo de sintetizador Out",
-          "shortname": "Out Bs.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-1",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de campana épica",
-          "shortname": "Epc Bl LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-2",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead con chorus de diente de sierra",
-          "shortname": "Sw Ch LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-3",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de sable láser",
-          "shortname": "Luces (LS)",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-4",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de estrella brillante",
-          "shortname": "Onda de sierra brillante (LS)",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-5",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de espacio profundo",
-          "shortname": "Dp Sp LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-6",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de computadora de ciencia ficción",
-          "shortname": "SF Cp LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-7",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de robots cantores",
-          "shortname": "Sg Rb LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-1",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de la Estrella del Norte",
-          "shortname": "NS LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-2",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead ruidoso",
-          "shortname": "Ruidoso (LS)",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-3",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de onda cuadrada básica",
-          "shortname": "Onda cuadrada 1 (LS)",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-4",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de drill",
-          "shortname": "Drill (LS)",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-5",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de funk",
-          "shortname": "Funk (LS)",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-6",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de comunicación astral",
-          "shortname": "Ast LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-1",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de coro soñador",
-          "shortname": "Dr Chr LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-2",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de orquesta espacial",
-          "shortname": "Sp Orch LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-3",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead de asteroide melódico",
-          "shortname": "Mld Ast LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-4",
-          "group": "electronic-instruments",
-          "name": "Sintetizador lead del rover de Marte",
-          "shortname": "Mars LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.choir-synth",
-          "group": "electronic-instruments",
-          "name": "Sintetizador de Coro",
-          "shortname": "Sint.",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "free-reed",
-      "name": "Lengüeta libre",
-      "instruments": [
-        {
-          "id": "free-reed.accordion",
-          "group": "free-reed",
-          "name": "Acordeón",
-          "shortname": "Acc.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "free-reed.harmonica",
-          "group": "free-reed",
-          "name": "Armónica",
-          "shortname": "Harm.",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "keyboards",
-      "name": "Teclados",
-      "instruments": [
-        {
-          "id": "keyboards.hq-grand-piano",
-          "group": "keyboards",
-          "name": "Piano de cola",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hq-piano-tight",
-          "group": "keyboards",
-          "name": "Piano seco",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hq-piano-concert",
-          "group": "keyboards",
-          "name": "Piano de concierto",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.grand-piano",
-          "group": "keyboards",
-          "name": "Piano de cola",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "keyboards.piano",
-          "group": "keyboards",
-          "name": "Piano",
-          "shortname": "Pno.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "keyboards.harpsichord",
-          "group": "keyboards",
-          "name": "Clavicémbalo",
-          "shortname": "Hch.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.celesta",
-          "group": "keyboards",
-          "name": "Celesta",
-          "shortname": "Cel.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.organ",
-          "group": "keyboards",
-          "name": "Órgano",
-          "shortname": "Org.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hammond-organ",
-          "group": "keyboards",
-          "name": "Órgano Hammond",
-          "shortname": "Hm. Org.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.reed-organ",
-          "group": "keyboards",
-          "name": "Órgano de lengüeta",
-          "shortname": "Órgano de lengüetas",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.rotary-organ",
-          "group": "keyboards",
-          "name": "Órgano rotativo",
-          "shortname": "Órgano rotativo",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.percussive-organ",
-          "group": "keyboards",
-          "name": "Órgano percusivo",
-          "shortname": "Órgano percusivo",
           "type": "pitched",
           "premium": true
         }
@@ -1187,94 +1097,370 @@
       ]
     },
     {
-      "id": "strings",
-      "name": "Cuerdas",
+      "id": "keyboards",
+      "name": "Teclados",
       "instruments": [
         {
-          "id": "strings.hq-violin",
-          "group": "strings",
-          "name": "Violín",
-          "shortname": "Vl.",
+          "id": "keyboards.hq-grand-piano",
+          "group": "keyboards",
+          "name": "Piano de cola",
+          "shortname": "Pno.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.violin",
-          "group": "strings",
-          "name": "Violín",
-          "shortname": "Vl.",
+          "id": "keyboards.hq-piano-tight",
+          "group": "keyboards",
+          "name": "Piano seco",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hq-piano-concert",
+          "group": "keyboards",
+          "name": "Piano de concierto",
+          "shortname": "Pno.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.grand-piano",
+          "group": "keyboards",
+          "name": "Piano de cola",
+          "shortname": "Pno.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "strings.violin-lead",
-          "group": "strings",
-          "name": "Violín Principal",
-          "shortname": "Vln. Prin.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "strings.hq-viola",
-          "group": "strings",
-          "name": "Viola",
-          "shortname": "Vla.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "strings.viola",
-          "group": "strings",
-          "name": "Viola",
-          "shortname": "Vla.",
+          "id": "keyboards.piano",
+          "group": "keyboards",
+          "name": "Piano",
+          "shortname": "Pno.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "strings.hq-cello",
-          "group": "strings",
-          "name": "Violonchelo",
-          "shortname": "Vc.",
+          "id": "keyboards.harpsichord",
+          "group": "keyboards",
+          "name": "Clavicémbalo",
+          "shortname": "Hch.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.violoncello",
-          "group": "strings",
-          "name": "Violonchelo",
-          "shortname": "Vc.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "strings.hq-contrabass",
-          "group": "strings",
-          "name": "Contrabajo",
-          "shortname": "Cb.",
+          "id": "keyboards.celesta",
+          "group": "keyboards",
+          "name": "Celesta",
+          "shortname": "Cel.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.contrabass",
-          "group": "strings",
-          "name": "Contrabajo",
-          "shortname": "Cb.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "strings.string-ensemble",
-          "group": "strings",
-          "name": "Conjunto de cuerdas",
-          "shortname": "Ens. Cuerdas",
+          "id": "keyboards.organ",
+          "group": "keyboards",
+          "name": "Órgano",
+          "shortname": "Org.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.erhu",
-          "group": "strings",
-          "name": "Erhu chino",
-          "shortname": "Erhu",
+          "id": "keyboards.hammond-organ",
+          "group": "keyboards",
+          "name": "Órgano Hammond",
+          "shortname": "Hm. Org.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.reed-organ",
+          "group": "keyboards",
+          "name": "Órgano de lengüeta",
+          "shortname": "Órgano de lengüetas",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.rotary-organ",
+          "group": "keyboards",
+          "name": "Órgano rotativo",
+          "shortname": "Órgano rotativo",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.percussive-organ",
+          "group": "keyboards",
+          "name": "Órgano percusivo",
+          "shortname": "Órgano percusivo",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "free-reed",
+      "name": "Lengüeta libre",
+      "instruments": [
+        {
+          "id": "free-reed.accordion",
+          "group": "free-reed",
+          "name": "Acordeón",
+          "shortname": "Acc.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "free-reed.harmonica",
+          "group": "free-reed",
+          "name": "Armónica",
+          "shortname": "Harm.",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "electronic-instruments",
+      "name": "Instrumentos electrónicos",
+      "instruments": [
+        {
+          "id": "electronic-instruments.synth-bass-1",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador con portamento",
+          "shortname": "Bajo con portamento",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-2",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador Reese",
+          "shortname": "Bajo resonante",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-3",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador punteado",
+          "shortname": "Bajo punteado",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-1",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador Underwide",
+          "shortname": "Uw. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-2",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador sólido",
+          "shortname": "Sd. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-3",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador ligero",
+          "shortname": "Lt. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-4",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador Airbass",
+          "shortname": "Ab. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-5",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador Evolution",
+          "shortname": "Ev. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-6",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador Weekend",
+          "shortname": "Wk. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-7",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador percusivo",
+          "shortname": "Pl. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-8",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador con fase",
+          "shortname": "Ph. Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-9",
+          "group": "electronic-instruments",
+          "name": "Bajo de sintetizador Out",
+          "shortname": "Out Bs.",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-1",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de campana épica",
+          "shortname": "Epc Bl LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-2",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead con chorus de diente de sierra",
+          "shortname": "Sw Ch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-3",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de sable láser",
+          "shortname": "Luces (LS)",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-4",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de estrella brillante",
+          "shortname": "Onda de sierra brillante (LS)",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-5",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de espacio profundo",
+          "shortname": "Dp Sp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-6",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de computadora de ciencia ficción",
+          "shortname": "SF Cp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-7",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de robots cantores",
+          "shortname": "Sg Rb LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-1",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de la Estrella del Norte",
+          "shortname": "NS LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-2",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead ruidoso",
+          "shortname": "Ruidoso (LS)",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-3",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de onda cuadrada básica",
+          "shortname": "Onda cuadrada 1 (LS)",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-4",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de drill",
+          "shortname": "Drill (LS)",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-5",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de funk",
+          "shortname": "Funk (LS)",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-6",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de comunicación astral",
+          "shortname": "Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-1",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de coro soñador",
+          "shortname": "Dr Chr LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-2",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de orquesta espacial",
+          "shortname": "Sp Orch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-3",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead de asteroide melódico",
+          "shortname": "Mld Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-4",
+          "group": "electronic-instruments",
+          "name": "Sintetizador lead del rover de Marte",
+          "shortname": "Mars LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.choir-synth",
+          "group": "electronic-instruments",
+          "name": "Sintetizador de Coro",
+          "shortname": "Sint.",
           "type": "pitched",
           "premium": true
         }
@@ -1431,254 +1617,94 @@
       ]
     },
     {
-      "id": "woodwinds",
-      "name": "Viento madera",
+      "id": "strings",
+      "name": "Cuerdas",
       "instruments": [
         {
-          "id": "woodwinds.piccolo",
-          "group": "woodwinds",
-          "name": "Flautín",
-          "shortname": "Picc.",
+          "id": "strings.hq-violin",
+          "group": "strings",
+          "name": "Violín",
+          "shortname": "Vl.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-orchestral-flute",
-          "group": "woodwinds",
-          "name": "Flauta orquestal",
-          "shortname": "Fla.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-traditional-flute",
-          "group": "woodwinds",
-          "name": "Flauta tradicional",
-          "shortname": "Fla.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.flute",
-          "group": "woodwinds",
-          "name": "Flauta",
-          "shortname": "Fl.",
+          "id": "strings.violin",
+          "group": "strings",
+          "name": "Violín",
+          "shortname": "Vl.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.alto-flute",
-          "group": "woodwinds",
-          "name": "Flauta contralto",
-          "shortname": "A. Fl.",
+          "id": "strings.violin-lead",
+          "group": "strings",
+          "name": "Violín Principal",
+          "shortname": "Vln. Prin.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.pan-flute",
-          "group": "woodwinds",
-          "name": "Flauta de Pan",
-          "shortname": "Fl. de pan",
+          "id": "strings.hq-viola",
+          "group": "strings",
+          "name": "Viola",
+          "shortname": "Vla.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.recorder",
-          "group": "woodwinds",
-          "name": "Flauta dulce",
-          "shortname": "Flauta dulce",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.alto-recorder-in-f",
-          "group": "woodwinds",
-          "name": "Flauta dulce alto en Fa",
-          "shortname": "Flauta dulce alto",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.tin-whistle",
-          "group": "woodwinds",
-          "name": "Flauta irlandesa",
-          "shortname": "Fl. irl.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.oboe",
-          "group": "woodwinds",
-          "name": "Oboe",
-          "shortname": "Ob.",
+          "id": "strings.viola",
+          "group": "strings",
+          "name": "Viola",
+          "shortname": "Vla.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.english-horn",
-          "group": "woodwinds",
-          "name": "Corno inglés",
-          "shortname": "C. Ing.",
+          "id": "strings.hq-cello",
+          "group": "strings",
+          "name": "Violonchelo",
+          "shortname": "Vc.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-concert-clarinet",
-          "group": "woodwinds",
-          "name": "Clarinete de concierto (Sib)",
-          "shortname": "Cl.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-clarinet-ensemble",
-          "group": "woodwinds",
-          "name": "Dúo de clarinetes",
-          "shortname": "Cl.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.clarinet",
-          "group": "woodwinds",
-          "name": "Clarinete",
-          "shortname": "Cl.",
+          "id": "strings.violoncello",
+          "group": "strings",
+          "name": "Violonchelo",
+          "shortname": "Vc.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.alto-clarinet",
-          "group": "woodwinds",
-          "name": "Clarinete alto",
-          "shortname": "Al. Cl.",
+          "id": "strings.hq-contrabass",
+          "group": "strings",
+          "name": "Contrabajo",
+          "shortname": "Cb.",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.bass-clarinet",
-          "group": "woodwinds",
-          "name": "Clarinete bajo",
-          "shortname": "B. Cl.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.contrabass-clarinet",
-          "group": "woodwinds",
-          "name": "Clarinete contrabajo",
-          "shortname": "Cb. Cl.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.bassoon",
-          "group": "woodwinds",
-          "name": "Fagot",
-          "shortname": "Bsn.",
+          "id": "strings.contrabass",
+          "group": "strings",
+          "name": "Contrabajo",
+          "shortname": "Cb.",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.contrabassoon",
-          "group": "woodwinds",
-          "name": "Contrafagot",
-          "shortname": "Contrafagot",
+          "id": "strings.string-ensemble",
+          "group": "strings",
+          "name": "Conjunto de cuerdas",
+          "shortname": "Ens. Cuerdas",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-soprano-saxophone",
-          "group": "woodwinds",
-          "name": "Saxofón soprano",
-          "shortname": "S. Sax.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-alto-saxophone",
-          "group": "woodwinds",
-          "name": "Saxofón contralto",
-          "shortname": "A. Sax.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-tenor-saxophone",
-          "group": "woodwinds",
-          "name": "Saxofón tenor",
-          "shortname": "Sax. T.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-baritone-saxophone",
-          "group": "woodwinds",
-          "name": "Saxofón barítono",
-          "shortname": "Bar. Sax.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.soprano-saxophone",
-          "group": "woodwinds",
-          "name": "Saxofón soprano",
-          "shortname": "S. Sax.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.alto-saxophone",
-          "group": "woodwinds",
-          "name": "Saxofón contralto",
-          "shortname": "A. Sax.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.tenor-saxophone",
-          "group": "woodwinds",
-          "name": "Saxofón tenor",
-          "shortname": "Sax. T.",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.baritone-saxophone",
-          "group": "woodwinds",
-          "name": "Saxofón barítono",
-          "shortname": "Bar. Sax.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.bagpipe",
-          "group": "woodwinds",
-          "name": "Gaita",
-          "shortname": "Gait.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.ocarina",
-          "group": "woodwinds",
-          "name": "Ocarina",
-          "shortname": "Ocarina",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.dizi-flute",
-          "group": "woodwinds",
-          "name": "Dizi (flauta china)",
-          "shortname": "Di.",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.shakuhachi-flute",
-          "group": "woodwinds",
-          "name": "Shakuhachi (flauta japonesa)",
-          "shortname": "Shaker",
+          "id": "strings.erhu",
+          "group": "strings",
+          "name": "Erhu chino",
+          "shortname": "Erhu",
           "type": "pitched",
           "premium": true
         }

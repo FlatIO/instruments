@@ -1,6 +1,278 @@
 {
   "groups": [
     {
+      "id": "woodwinds",
+      "name": "वुडविंड",
+      "instruments": [
+        {
+          "id": "woodwinds.piccolo",
+          "group": "woodwinds",
+          "name": "पिकोलो",
+          "shortname": "Picc।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-orchestral-flute",
+          "group": "woodwinds",
+          "name": "ऑर्केस्ट्रल बांसुरी",
+          "shortname": "Flt।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-traditional-flute",
+          "group": "woodwinds",
+          "name": "पारंपरिक बांसुरी",
+          "shortname": "Flt।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.flute",
+          "group": "woodwinds",
+          "name": "बांसुरी",
+          "shortname": "Fl।",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.alto-flute",
+          "group": "woodwinds",
+          "name": "अल्टो फ्लूट",
+          "shortname": "A. Fl।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "G"
+        },
+        {
+          "id": "woodwinds.pan-flute",
+          "group": "woodwinds",
+          "name": "पैन बांसुरी",
+          "shortname": "Pn. Fl।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.recorder",
+          "group": "woodwinds",
+          "name": "रिकॉर्डर",
+          "shortname": "रिक।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.alto-recorder-in-f",
+          "group": "woodwinds",
+          "name": "अल्टो रिकॉर्डर (F में)",
+          "shortname": "Alto Rec।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "F"
+        },
+        {
+          "id": "woodwinds.tin-whistle",
+          "group": "woodwinds",
+          "name": "टिन व्हिसल",
+          "shortname": "Tin Wh।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.oboe",
+          "group": "woodwinds",
+          "name": "ओबो",
+          "shortname": "Ob।",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.english-horn",
+          "group": "woodwinds",
+          "name": "इंग्लिश हॉर्न",
+          "shortname": "E. Hn।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "F"
+        },
+        {
+          "id": "woodwinds.hq-concert-clarinet",
+          "group": "woodwinds",
+          "name": "कंसर्ट क्लैरिनेट (B♭)",
+          "shortname": "Cl।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-clarinet-ensemble",
+          "group": "woodwinds",
+          "name": "क्लैरिनेट युगल",
+          "shortname": "Cl।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.clarinet",
+          "group": "woodwinds",
+          "name": "क्लैरिनेट",
+          "shortname": "Cl।",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.alto-clarinet",
+          "group": "woodwinds",
+          "name": "अल्टो क्लैरिनेट",
+          "shortname": "Al. Cl।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.bass-clarinet",
+          "group": "woodwinds",
+          "name": "बास क्लैरिनेट",
+          "shortname": "B. Cl।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.contrabass-clarinet",
+          "group": "woodwinds",
+          "name": "कॉन्ट्राबास क्लैरिनेट",
+          "shortname": "Cb. Cl।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.bassoon",
+          "group": "woodwinds",
+          "name": "बैसून",
+          "shortname": "Bsn।",
+          "type": "pitched",
+          "premium": false
+        },
+        {
+          "id": "woodwinds.contrabassoon",
+          "group": "woodwinds",
+          "name": "कॉन्ट्राबैसून",
+          "shortname": "Cb. Bsn।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.hq-soprano-saxophone",
+          "group": "woodwinds",
+          "name": "सोप्रानो सैक्सोफोन",
+          "shortname": "S. Sax।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-alto-saxophone",
+          "group": "woodwinds",
+          "name": "अल्टो सैक्सोफोन",
+          "shortname": "A. Sax।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.hq-tenor-saxophone",
+          "group": "woodwinds",
+          "name": "टेनर सैक्सोफोन",
+          "shortname": "T. Sax।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.hq-baritone-saxophone",
+          "group": "woodwinds",
+          "name": "बैरीटोन सैक्सोफोन",
+          "shortname": "Bar. Sax।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.soprano-saxophone",
+          "group": "woodwinds",
+          "name": "सोप्रानो सैक्सोफोन",
+          "shortname": "S. Sax।",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.alto-saxophone",
+          "group": "woodwinds",
+          "name": "अल्टो सैक्सोफोन",
+          "shortname": "A. Sax।",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.tenor-saxophone",
+          "group": "woodwinds",
+          "name": "टेनर सैक्सोफोन",
+          "shortname": "T. Sax।",
+          "type": "pitched",
+          "premium": false,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.baritone-saxophone",
+          "group": "woodwinds",
+          "name": "बैरीटोन सैक्सोफोन",
+          "shortname": "Bar. Sax।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Eb"
+        },
+        {
+          "id": "woodwinds.bagpipe",
+          "group": "woodwinds",
+          "name": "बैगपाइप्स",
+          "shortname": "Bagp।",
+          "type": "pitched",
+          "premium": true,
+          "writtenKey": "Bb"
+        },
+        {
+          "id": "woodwinds.ocarina",
+          "group": "woodwinds",
+          "name": "ओकारिना",
+          "shortname": "Oc।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.dizi-flute",
+          "group": "woodwinds",
+          "name": "डीज़ी (चीनी बांसुरी)",
+          "shortname": "Di।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "woodwinds.shakuhachi-flute",
+          "group": "woodwinds",
+          "name": "शकुहाची (जापानी बांसुरी)",
+          "shortname": "श।",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
       "id": "brass",
       "name": "ब्रास",
       "instruments": [
@@ -10,7 +282,8 @@
           "name": "ट्रम्पेट",
           "shortname": "ट्रम्प।",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.trumpet",
@@ -18,7 +291,8 @@
           "name": "ट्रम्पेट",
           "shortname": "ट्रम्प।",
           "type": "pitched",
-          "premium": false
+          "premium": false,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.hq-trombone",
@@ -42,7 +316,8 @@
           "name": "एफ में हॉर्न",
           "shortname": "एफ हॉ।",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "F"
         },
         {
           "id": "brass.horn",
@@ -50,7 +325,8 @@
           "name": "एफ में हॉर्न",
           "shortname": "एफ हॉ।",
           "type": "pitched",
-          "premium": false
+          "premium": false,
+          "writtenKey": "F"
         },
         {
           "id": "brass.hq-horn-in-c",
@@ -74,7 +350,8 @@
           "name": "डी में हॉर्न",
           "shortname": "डी हॉर्न",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "D"
         },
         {
           "id": "brass.horn-in-d",
@@ -82,7 +359,8 @@
           "name": "डी में हॉर्न",
           "shortname": "डी हॉर्न",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "D"
         },
         {
           "id": "brass.hq-baritone-horn",
@@ -106,7 +384,8 @@
           "name": "बैरिटोन (ट्रेबल क्लेफ)",
           "shortname": "बैर. टीसी",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.baritone-horn-treble",
@@ -114,7 +393,8 @@
           "name": "बैरिटोन (ट्रेबल क्लेफ)",
           "shortname": "बैर. टीसी",
           "type": "pitched",
-          "premium": true
+          "premium": true,
+          "writtenKey": "Bb"
         },
         {
           "id": "brass.euphonium",
@@ -145,376 +425,6 @@
           "group": "brass",
           "name": "ब्रास सेक्शन",
           "shortname": "ब्रास सेक्शन",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "electronic-instruments",
-      "name": "इलेक्ट्रॉनिक वाद्ययंत्र",
-      "instruments": [
-        {
-          "id": "electronic-instruments.synth-bass-1",
-          "group": "electronic-instruments",
-          "name": "पोर्टामेंटो सिंथ बेस",
-          "shortname": "Prt. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-2",
-          "group": "electronic-instruments",
-          "name": "रीस सिंथ बेस",
-          "shortname": "Rs. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-3",
-          "group": "electronic-instruments",
-          "name": "प्लक्ड सिंथ बेस",
-          "shortname": "प्लक्ड बास",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-1",
-          "group": "electronic-instruments",
-          "name": "अंडरवाइड सिंथ बेस",
-          "shortname": "Uw. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-2",
-          "group": "electronic-instruments",
-          "name": "सॉलिड सिंथ बास",
-          "shortname": "Sd. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-3",
-          "group": "electronic-instruments",
-          "name": "लाइट सिंथ बेस",
-          "shortname": "Lt. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-4",
-          "group": "electronic-instruments",
-          "name": "एयरबेस सिंथ बेस",
-          "shortname": "Ab. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-5",
-          "group": "electronic-instruments",
-          "name": "एवोल्यूशन सिंथ बेस",
-          "shortname": "Ev. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-6",
-          "group": "electronic-instruments",
-          "name": "वीकेंड सिंथ बेस",
-          "shortname": "Wk. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-7",
-          "group": "electronic-instruments",
-          "name": "प्लकी सिंथ बेस",
-          "shortname": "Pl. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-8",
-          "group": "electronic-instruments",
-          "name": "फेज़ सिंथ बेस",
-          "shortname": "Ph. Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.synth-bass-808-9",
-          "group": "electronic-instruments",
-          "name": "आउट सिंथ बेस",
-          "shortname": "Out Bs।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-1",
-          "group": "electronic-instruments",
-          "name": "एपिक बेल लीड सिंथ",
-          "shortname": "Epc Bl LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-2",
-          "group": "electronic-instruments",
-          "name": "सॉटूथ कोरस लीड सिंथ",
-          "shortname": "Sw Ch LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-3",
-          "group": "electronic-instruments",
-          "name": "लाइटसेबर लीड सिंथ",
-          "shortname": "Lghts LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-4",
-          "group": "electronic-instruments",
-          "name": "ब्राइट स्टार लीड सिंथ",
-          "shortname": "Brt S LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-5",
-          "group": "electronic-instruments",
-          "name": "डीप स्पेस लीड सिंथ",
-          "shortname": "Dp Sp LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-6",
-          "group": "electronic-instruments",
-          "name": "साइ-फाइ कंप्यूटर लीड सिंथ",
-          "shortname": "SF Cp LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-mod-7",
-          "group": "electronic-instruments",
-          "name": "सिंगिंग रोबोट्स लीड सिंथ",
-          "shortname": "Sg Rb LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-1",
-          "group": "electronic-instruments",
-          "name": "ध्रुवतारा लीड सिंथ",
-          "shortname": "NS LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-2",
-          "group": "electronic-instruments",
-          "name": "नॉइज़ी लीड सिंथ",
-          "shortname": "नॉइज़ी LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-3",
-          "group": "electronic-instruments",
-          "name": "स्क्वेयर वन लीड सिंथ",
-          "shortname": "स्क्वेयर 1 LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-4",
-          "group": "electronic-instruments",
-          "name": "ड्रिल लीड सिंथ",
-          "shortname": "ड्रिल LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-5",
-          "group": "electronic-instruments",
-          "name": "फंकी लीड सिंथ",
-          "shortname": "फंक LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-vin-6",
-          "group": "electronic-instruments",
-          "name": "खगोलीय संचार लीड सिंथ",
-          "shortname": "Ast LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-1",
-          "group": "electronic-instruments",
-          "name": "ड्रीमी क्वायर लीड सिंथ",
-          "shortname": "Dr Chr LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-2",
-          "group": "electronic-instruments",
-          "name": "स्पेस ऑर्केस्ट्रा लीड सिंथ",
-          "shortname": "Sp Orch LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-3",
-          "group": "electronic-instruments",
-          "name": "मेलोडिक ऐस्टरॉइड लीड सिंथ",
-          "shortname": "Mld Ast LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.lead-synth-other-4",
-          "group": "electronic-instruments",
-          "name": "मार्स रोवर लीड सिंथ",
-          "shortname": "Mars LS",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "electronic-instruments.choir-synth",
-          "group": "electronic-instruments",
-          "name": "क्वायर सिंथेसाइज़र",
-          "shortname": "सिंथ।",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "free-reed",
-      "name": "मुक्त रीड",
-      "instruments": [
-        {
-          "id": "free-reed.accordion",
-          "group": "free-reed",
-          "name": "अकॉर्डियन",
-          "shortname": "Acc।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "free-reed.harmonica",
-          "group": "free-reed",
-          "name": "हार्मोनिका",
-          "shortname": "Harm।",
-          "type": "pitched",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "id": "keyboards",
-      "name": "कुंजीवाद्य",
-      "instruments": [
-        {
-          "id": "keyboards.hq-grand-piano",
-          "group": "keyboards",
-          "name": "ग्रैंड पियानो",
-          "shortname": "Pno।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hq-piano-tight",
-          "group": "keyboards",
-          "name": "टाइट पियानो",
-          "shortname": "Pno।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hq-piano-concert",
-          "group": "keyboards",
-          "name": "कॉन्सर्ट पियानो",
-          "shortname": "Pno।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.grand-piano",
-          "group": "keyboards",
-          "name": "ग्रैंड पियानो",
-          "shortname": "Pno।",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "keyboards.piano",
-          "group": "keyboards",
-          "name": "पियानो",
-          "shortname": "Pno।",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "keyboards.harpsichord",
-          "group": "keyboards",
-          "name": "हार्पसिकॉर्ड",
-          "shortname": "Hch।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.celesta",
-          "group": "keyboards",
-          "name": "सेलेस्टा",
-          "shortname": "Cel।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.organ",
-          "group": "keyboards",
-          "name": "ऑर्गन",
-          "shortname": "Org।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.hammond-organ",
-          "group": "keyboards",
-          "name": "हैमंड ऑर्गन",
-          "shortname": "Hm. Org।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.reed-organ",
-          "group": "keyboards",
-          "name": "रीड ऑर्गन",
-          "shortname": "Rd. Org।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.rotary-organ",
-          "group": "keyboards",
-          "name": "रोटरी ऑर्गन",
-          "shortname": "Rot. Org।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "keyboards.percussive-organ",
-          "group": "keyboards",
-          "name": "पर्कसिव ऑर्गन",
-          "shortname": "Perc. Org।",
           "type": "pitched",
           "premium": true
         }
@@ -1187,94 +1097,370 @@
       ]
     },
     {
-      "id": "strings",
-      "name": "स्ट्रिंग्स",
+      "id": "keyboards",
+      "name": "कुंजीवाद्य",
       "instruments": [
         {
-          "id": "strings.hq-violin",
-          "group": "strings",
-          "name": "वायलिन",
-          "shortname": "Vln।",
+          "id": "keyboards.hq-grand-piano",
+          "group": "keyboards",
+          "name": "ग्रैंड पियानो",
+          "shortname": "Pno।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.violin",
-          "group": "strings",
-          "name": "वायलिन",
-          "shortname": "Vln।",
+          "id": "keyboards.hq-piano-tight",
+          "group": "keyboards",
+          "name": "टाइट पियानो",
+          "shortname": "Pno।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.hq-piano-concert",
+          "group": "keyboards",
+          "name": "कॉन्सर्ट पियानो",
+          "shortname": "Pno।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.grand-piano",
+          "group": "keyboards",
+          "name": "ग्रैंड पियानो",
+          "shortname": "Pno।",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "strings.violin-lead",
-          "group": "strings",
-          "name": "मुख्य वायलिन",
-          "shortname": "Vln. Ld।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "strings.hq-viola",
-          "group": "strings",
-          "name": "वीओला",
-          "shortname": "Vla।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "strings.viola",
-          "group": "strings",
-          "name": "वीओला",
-          "shortname": "Vla।",
+          "id": "keyboards.piano",
+          "group": "keyboards",
+          "name": "पियानो",
+          "shortname": "Pno।",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "strings.hq-cello",
-          "group": "strings",
-          "name": "चेलो",
-          "shortname": "Vc।",
+          "id": "keyboards.harpsichord",
+          "group": "keyboards",
+          "name": "हार्पसिकॉर्ड",
+          "shortname": "Hch।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.violoncello",
-          "group": "strings",
-          "name": "चेलो",
-          "shortname": "Vc।",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "strings.hq-contrabass",
-          "group": "strings",
-          "name": "कॉन्ट्राबेस",
-          "shortname": "Cb।",
+          "id": "keyboards.celesta",
+          "group": "keyboards",
+          "name": "सेलेस्टा",
+          "shortname": "Cel।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.contrabass",
-          "group": "strings",
-          "name": "कॉन्ट्राबेस",
-          "shortname": "Cb।",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "strings.string-ensemble",
-          "group": "strings",
-          "name": "तार-वाद्य समूह",
-          "shortname": "St. Ens।",
+          "id": "keyboards.organ",
+          "group": "keyboards",
+          "name": "ऑर्गन",
+          "shortname": "Org।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "strings.erhu",
-          "group": "strings",
-          "name": "चीनी एरहू",
-          "shortname": "Er।",
+          "id": "keyboards.hammond-organ",
+          "group": "keyboards",
+          "name": "हैमंड ऑर्गन",
+          "shortname": "Hm. Org।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.reed-organ",
+          "group": "keyboards",
+          "name": "रीड ऑर्गन",
+          "shortname": "Rd. Org।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.rotary-organ",
+          "group": "keyboards",
+          "name": "रोटरी ऑर्गन",
+          "shortname": "Rot. Org।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "keyboards.percussive-organ",
+          "group": "keyboards",
+          "name": "पर्कसिव ऑर्गन",
+          "shortname": "Perc. Org।",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "free-reed",
+      "name": "मुक्त रीड",
+      "instruments": [
+        {
+          "id": "free-reed.accordion",
+          "group": "free-reed",
+          "name": "अकॉर्डियन",
+          "shortname": "Acc।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "free-reed.harmonica",
+          "group": "free-reed",
+          "name": "हार्मोनिका",
+          "shortname": "Harm।",
+          "type": "pitched",
+          "premium": true
+        }
+      ]
+    },
+    {
+      "id": "electronic-instruments",
+      "name": "इलेक्ट्रॉनिक वाद्ययंत्र",
+      "instruments": [
+        {
+          "id": "electronic-instruments.synth-bass-1",
+          "group": "electronic-instruments",
+          "name": "पोर्टामेंटो सिंथ बेस",
+          "shortname": "Prt. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-2",
+          "group": "electronic-instruments",
+          "name": "रीस सिंथ बेस",
+          "shortname": "Rs. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-3",
+          "group": "electronic-instruments",
+          "name": "प्लक्ड सिंथ बेस",
+          "shortname": "प्लक्ड बास",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-1",
+          "group": "electronic-instruments",
+          "name": "अंडरवाइड सिंथ बेस",
+          "shortname": "Uw. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-2",
+          "group": "electronic-instruments",
+          "name": "सॉलिड सिंथ बास",
+          "shortname": "Sd. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-3",
+          "group": "electronic-instruments",
+          "name": "लाइट सिंथ बेस",
+          "shortname": "Lt. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-4",
+          "group": "electronic-instruments",
+          "name": "एयरबेस सिंथ बेस",
+          "shortname": "Ab. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-5",
+          "group": "electronic-instruments",
+          "name": "एवोल्यूशन सिंथ बेस",
+          "shortname": "Ev. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-6",
+          "group": "electronic-instruments",
+          "name": "वीकेंड सिंथ बेस",
+          "shortname": "Wk. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-7",
+          "group": "electronic-instruments",
+          "name": "प्लकी सिंथ बेस",
+          "shortname": "Pl. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-8",
+          "group": "electronic-instruments",
+          "name": "फेज़ सिंथ बेस",
+          "shortname": "Ph. Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.synth-bass-808-9",
+          "group": "electronic-instruments",
+          "name": "आउट सिंथ बेस",
+          "shortname": "Out Bs।",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-1",
+          "group": "electronic-instruments",
+          "name": "एपिक बेल लीड सिंथ",
+          "shortname": "Epc Bl LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-2",
+          "group": "electronic-instruments",
+          "name": "सॉटूथ कोरस लीड सिंथ",
+          "shortname": "Sw Ch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-3",
+          "group": "electronic-instruments",
+          "name": "लाइटसेबर लीड सिंथ",
+          "shortname": "Lghts LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-4",
+          "group": "electronic-instruments",
+          "name": "ब्राइट स्टार लीड सिंथ",
+          "shortname": "Brt S LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-5",
+          "group": "electronic-instruments",
+          "name": "डीप स्पेस लीड सिंथ",
+          "shortname": "Dp Sp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-6",
+          "group": "electronic-instruments",
+          "name": "साइ-फाइ कंप्यूटर लीड सिंथ",
+          "shortname": "SF Cp LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-mod-7",
+          "group": "electronic-instruments",
+          "name": "सिंगिंग रोबोट्स लीड सिंथ",
+          "shortname": "Sg Rb LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-1",
+          "group": "electronic-instruments",
+          "name": "ध्रुवतारा लीड सिंथ",
+          "shortname": "NS LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-2",
+          "group": "electronic-instruments",
+          "name": "नॉइज़ी लीड सिंथ",
+          "shortname": "नॉइज़ी LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-3",
+          "group": "electronic-instruments",
+          "name": "स्क्वेयर वन लीड सिंथ",
+          "shortname": "स्क्वेयर 1 LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-4",
+          "group": "electronic-instruments",
+          "name": "ड्रिल लीड सिंथ",
+          "shortname": "ड्रिल LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-5",
+          "group": "electronic-instruments",
+          "name": "फंकी लीड सिंथ",
+          "shortname": "फंक LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-vin-6",
+          "group": "electronic-instruments",
+          "name": "खगोलीय संचार लीड सिंथ",
+          "shortname": "Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-1",
+          "group": "electronic-instruments",
+          "name": "ड्रीमी क्वायर लीड सिंथ",
+          "shortname": "Dr Chr LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-2",
+          "group": "electronic-instruments",
+          "name": "स्पेस ऑर्केस्ट्रा लीड सिंथ",
+          "shortname": "Sp Orch LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-3",
+          "group": "electronic-instruments",
+          "name": "मेलोडिक ऐस्टरॉइड लीड सिंथ",
+          "shortname": "Mld Ast LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.lead-synth-other-4",
+          "group": "electronic-instruments",
+          "name": "मार्स रोवर लीड सिंथ",
+          "shortname": "Mars LS",
+          "type": "pitched",
+          "premium": true
+        },
+        {
+          "id": "electronic-instruments.choir-synth",
+          "group": "electronic-instruments",
+          "name": "क्वायर सिंथेसाइज़र",
+          "shortname": "सिंथ।",
           "type": "pitched",
           "premium": true
         }
@@ -1431,254 +1617,94 @@
       ]
     },
     {
-      "id": "woodwinds",
-      "name": "वुडविंड",
+      "id": "strings",
+      "name": "स्ट्रिंग्स",
       "instruments": [
         {
-          "id": "woodwinds.piccolo",
-          "group": "woodwinds",
-          "name": "पिकोलो",
-          "shortname": "Picc।",
+          "id": "strings.hq-violin",
+          "group": "strings",
+          "name": "वायलिन",
+          "shortname": "Vln।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-orchestral-flute",
-          "group": "woodwinds",
-          "name": "ऑर्केस्ट्रल बांसुरी",
-          "shortname": "Flt।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-traditional-flute",
-          "group": "woodwinds",
-          "name": "पारंपरिक बांसुरी",
-          "shortname": "Flt।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.flute",
-          "group": "woodwinds",
-          "name": "बांसुरी",
-          "shortname": "Fl।",
+          "id": "strings.violin",
+          "group": "strings",
+          "name": "वायलिन",
+          "shortname": "Vln।",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.alto-flute",
-          "group": "woodwinds",
-          "name": "अल्टो फ्लूट",
-          "shortname": "A. Fl।",
+          "id": "strings.violin-lead",
+          "group": "strings",
+          "name": "मुख्य वायलिन",
+          "shortname": "Vln. Ld।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.pan-flute",
-          "group": "woodwinds",
-          "name": "पैन बांसुरी",
-          "shortname": "Pn. Fl।",
+          "id": "strings.hq-viola",
+          "group": "strings",
+          "name": "वीओला",
+          "shortname": "Vla।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.recorder",
-          "group": "woodwinds",
-          "name": "रिकॉर्डर",
-          "shortname": "रिक।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.alto-recorder-in-f",
-          "group": "woodwinds",
-          "name": "अल्टो रिकॉर्डर (F में)",
-          "shortname": "Alto Rec।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.tin-whistle",
-          "group": "woodwinds",
-          "name": "टिन व्हिसल",
-          "shortname": "Tin Wh।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.oboe",
-          "group": "woodwinds",
-          "name": "ओबो",
-          "shortname": "Ob।",
+          "id": "strings.viola",
+          "group": "strings",
+          "name": "वीओला",
+          "shortname": "Vla।",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.english-horn",
-          "group": "woodwinds",
-          "name": "इंग्लिश हॉर्न",
-          "shortname": "E. Hn।",
+          "id": "strings.hq-cello",
+          "group": "strings",
+          "name": "चेलो",
+          "shortname": "Vc।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-concert-clarinet",
-          "group": "woodwinds",
-          "name": "कंसर्ट क्लैरिनेट (B♭)",
-          "shortname": "Cl।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-clarinet-ensemble",
-          "group": "woodwinds",
-          "name": "क्लैरिनेट युगल",
-          "shortname": "Cl।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.clarinet",
-          "group": "woodwinds",
-          "name": "क्लैरिनेट",
-          "shortname": "Cl।",
+          "id": "strings.violoncello",
+          "group": "strings",
+          "name": "चेलो",
+          "shortname": "Vc।",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.alto-clarinet",
-          "group": "woodwinds",
-          "name": "अल्टो क्लैरिनेट",
-          "shortname": "Al. Cl।",
+          "id": "strings.hq-contrabass",
+          "group": "strings",
+          "name": "कॉन्ट्राबेस",
+          "shortname": "Cb।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.bass-clarinet",
-          "group": "woodwinds",
-          "name": "बास क्लैरिनेट",
-          "shortname": "B. Cl।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.contrabass-clarinet",
-          "group": "woodwinds",
-          "name": "कॉन्ट्राबास क्लैरिनेट",
-          "shortname": "Cb. Cl।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.bassoon",
-          "group": "woodwinds",
-          "name": "बैसून",
-          "shortname": "Bsn।",
+          "id": "strings.contrabass",
+          "group": "strings",
+          "name": "कॉन्ट्राबेस",
+          "shortname": "Cb।",
           "type": "pitched",
           "premium": false
         },
         {
-          "id": "woodwinds.contrabassoon",
-          "group": "woodwinds",
-          "name": "कॉन्ट्राबैसून",
-          "shortname": "Cb. Bsn।",
+          "id": "strings.string-ensemble",
+          "group": "strings",
+          "name": "तार-वाद्य समूह",
+          "shortname": "St. Ens।",
           "type": "pitched",
           "premium": true
         },
         {
-          "id": "woodwinds.hq-soprano-saxophone",
-          "group": "woodwinds",
-          "name": "सोप्रानो सैक्सोफोन",
-          "shortname": "S. Sax।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-alto-saxophone",
-          "group": "woodwinds",
-          "name": "अल्टो सैक्सोफोन",
-          "shortname": "A. Sax।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-tenor-saxophone",
-          "group": "woodwinds",
-          "name": "टेनर सैक्सोफोन",
-          "shortname": "T. Sax।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.hq-baritone-saxophone",
-          "group": "woodwinds",
-          "name": "बैरीटोन सैक्सोफोन",
-          "shortname": "Bar. Sax।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.soprano-saxophone",
-          "group": "woodwinds",
-          "name": "सोप्रानो सैक्सोफोन",
-          "shortname": "S. Sax।",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.alto-saxophone",
-          "group": "woodwinds",
-          "name": "अल्टो सैक्सोफोन",
-          "shortname": "A. Sax।",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.tenor-saxophone",
-          "group": "woodwinds",
-          "name": "टेनर सैक्सोफोन",
-          "shortname": "T. Sax।",
-          "type": "pitched",
-          "premium": false
-        },
-        {
-          "id": "woodwinds.baritone-saxophone",
-          "group": "woodwinds",
-          "name": "बैरीटोन सैक्सोफोन",
-          "shortname": "Bar. Sax।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.bagpipe",
-          "group": "woodwinds",
-          "name": "बैगपाइप्स",
-          "shortname": "Bagp।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.ocarina",
-          "group": "woodwinds",
-          "name": "ओकारिना",
-          "shortname": "Oc।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.dizi-flute",
-          "group": "woodwinds",
-          "name": "डीज़ी (चीनी बांसुरी)",
-          "shortname": "Di।",
-          "type": "pitched",
-          "premium": true
-        },
-        {
-          "id": "woodwinds.shakuhachi-flute",
-          "group": "woodwinds",
-          "name": "शकुहाची (जापानी बांसुरी)",
-          "shortname": "श।",
+          "id": "strings.erhu",
+          "group": "strings",
+          "name": "चीनी एरहू",
+          "shortname": "Er।",
           "type": "pitched",
           "premium": true
         }

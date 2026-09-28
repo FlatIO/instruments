@@ -65,3 +65,19 @@ test('type is always pitched or unpitched', () => {
     );
   }
 });
+
+test('exposes the usual written key of transposing instruments', () => {
+  assert.equal(getInstrument('woodwinds.clarinet').writtenKey, 'Bb');
+  assert.equal(getInstrument('brass.horn').writtenKey, 'F');
+  assert.equal(getInstrument('brass.hq-french-horn').writtenKey, 'F');
+  assert.equal(getInstrument('woodwinds.bagpipe').writtenKey, 'Bb');
+  // Concert pitch, octave transposers included, carry no key.
+  assert.equal('writtenKey' in getInstrument('strings.violin'), false);
+  assert.equal('writtenKey' in getInstrument('woodwinds.piccolo'), false);
+  for (const instrument of instruments) {
+    if (instrument.writtenKey !== undefined) {
+      assert.equal(instrument.type, 'pitched', `${instrument.id} type`);
+      assert.match(instrument.writtenKey, /^[A-G](b|#)?$/, `${instrument.id} writtenKey`);
+    }
+  }
+});

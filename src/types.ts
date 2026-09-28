@@ -19,6 +19,14 @@ export interface Instrument {
   type: InstrumentType;
   /** `true` when the instrument requires a paid Flat plan. */
   premium: boolean;
+  /**
+   * Key a transposing instrument's parts are usually written in, e.g. `"Bb"` for a clarinet or
+   * `"F"` for a horn. Absent for instruments written at concert pitch, including octave-transposing
+   * ones (piccolo, guitar, contrabass).
+   *
+   * @pattern ^[A-G](b|#)?$
+   */
+  writtenKey?: string;
 }
 
 /**
